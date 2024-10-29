@@ -1,0 +1,2624 @@
+.:
+total 52
+drwxr-x--- 1 mpirun mpirun 4096 Oct 28 22:20 .
+drwxr-xr-x 1 root   root   4096 Oct 27 18:13 ..
+-rw------- 1 mpirun mpirun   80 Oct 27 18:53 .bash_history
+-rw-r--r-- 1 mpirun mpirun  220 Oct 27 18:13 .bash_logout
+-rw-r--r-- 1 mpirun mpirun 3771 Oct 27 18:13 .bashrc
+drwxr-xr-x 1 mpirun mpirun 4096 Oct 27 18:41 .cache
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .local
+drwxr-xr-x 1 mpirun mpirun 4096 Oct 27 18:16 .openmpi
+-rw-r--r-- 1 mpirun mpirun  807 Oct 27 18:13 .profile
+drwxr-xr-x 1 mpirun mpirun 4096 Oct 27 19:02 .ssh
+-rw-rw-r-- 1 mpirun mpirun    0 Oct 28 22:20 archivo1.txt
+
+./.cache:
+total 16
+drwxr-xr-x 1 mpirun mpirun 4096 Oct 27 18:41 .
+drwxr-x--- 1 mpirun mpirun 4096 Oct 28 22:20 ..
+-rw-r--r-- 1 mpirun mpirun    0 Oct 27 18:41 motd.legal-displayed
+drwxr-xr-x 5 mpirun mpirun 4096 Oct 27 18:13 pip
+
+./.cache/pip:
+total 20
+drwxr-xr-x  5 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x  1 mpirun mpirun 4096 Oct 27 18:41 ..
+drwxr-xr-x 15 mpirun mpirun 4096 Oct 27 18:13 http-v2
+drwxr-xr-x  2 mpirun mpirun 4096 Oct 27 18:13 selfcheck
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 wheels
+
+./.cache/pip/http-v2:
+total 60
+drwxr-xr-x 15 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x  5 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x  4 mpirun mpirun 4096 Oct 27 18:13 0
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 1
+drwxr-xr-x  5 mpirun mpirun 4096 Oct 27 18:13 2
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 3
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 4
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 5
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 6
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 7
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 8
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 9
+drwxr-xr-x  4 mpirun mpirun 4096 Oct 27 18:13 a
+drwxr-xr-x  4 mpirun mpirun 4096 Oct 27 18:13 b
+drwxr-xr-x  5 mpirun mpirun 4096 Oct 27 18:13 c
+
+./.cache/pip/http-v2/0:
+total 16
+drwxr-xr-x  4 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 15 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 4
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 8
+
+./.cache/pip/http-v2/0/4:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 4 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 1
+
+./.cache/pip/http-v2/0/4/1:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 8
+
+./.cache/pip/http-v2/0/4/1/8:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 c
+
+./.cache/pip/http-v2/0/4/1/8/c:
+total 188
+drwxr-xr-x 2 mpirun mpirun   4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun   4096 Oct 27 18:13 ..
+-rw------- 1 mpirun mpirun   1778 Oct 27 18:13 0418c83b80f7f7bfaec2738bfbbee53d2c1562196c0781702f6eddc8
+-rw------- 1 mpirun mpirun 179652 Oct 27 18:13 0418c83b80f7f7bfaec2738bfbbee53d2c1562196c0781702f6eddc8.body
+
+./.cache/pip/http-v2/0/8:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 4 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 9
+
+./.cache/pip/http-v2/0/8/9:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 9
+
+./.cache/pip/http-v2/0/8/9/9:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 1
+
+./.cache/pip/http-v2/0/8/9/9/1:
+total 16
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw------- 1 mpirun mpirun 1196 Oct 27 18:13 0899184911bc04e57cc9ccd7a7e919825b3f1696ecd17a6f42ea981c
+-rw------- 1 mpirun mpirun 3204 Oct 27 18:13 0899184911bc04e57cc9ccd7a7e919825b3f1696ecd17a6f42ea981c.body
+
+./.cache/pip/http-v2/1:
+total 12
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 15 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 5
+
+./.cache/pip/http-v2/1/5:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 b
+
+./.cache/pip/http-v2/1/5/b:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 1
+
+./.cache/pip/http-v2/1/5/b/1:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 3
+
+./.cache/pip/http-v2/1/5/b/1/3:
+total 468
+drwxr-xr-x 2 mpirun mpirun   4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun   4096 Oct 27 18:13 ..
+-rw------- 1 mpirun mpirun   1147 Oct 27 18:13 15b133cca5734d2b92b05282501013894f0c1d367fe6f8584a24eec4
+-rw------- 1 mpirun mpirun 466179 Oct 27 18:13 15b133cca5734d2b92b05282501013894f0c1d367fe6f8584a24eec4.body
+
+./.cache/pip/http-v2/2:
+total 20
+drwxr-xr-x  5 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 15 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 5
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 8
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 a
+
+./.cache/pip/http-v2/2/5:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 5 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 7
+
+./.cache/pip/http-v2/2/5/7:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 8
+
+./.cache/pip/http-v2/2/5/7/8:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 b
+
+./.cache/pip/http-v2/2/5/7/8/b:
+total 36
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw------- 1 mpirun mpirun  1125 Oct 27 18:13 2578b30ac48aefb2e8ddfef1d4d8109a1e74a9a9564c4644c4871e37
+-rw------- 1 mpirun mpirun 22950 Oct 27 18:13 2578b30ac48aefb2e8ddfef1d4d8109a1e74a9a9564c4644c4871e37.body
+
+./.cache/pip/http-v2/2/8:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 5 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 3
+
+./.cache/pip/http-v2/2/8/3:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 9
+
+./.cache/pip/http-v2/2/8/3/9:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 a
+
+./.cache/pip/http-v2/2/8/3/9/a:
+total 24
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw------- 1 mpirun mpirun  1157 Oct 27 18:13 2839a1e60014c8f0cdf9453a6036b2fef7bf06342761e3d37258b029
+-rw------- 1 mpirun mpirun 10216 Oct 27 18:13 2839a1e60014c8f0cdf9453a6036b2fef7bf06342761e3d37258b029.body
+
+./.cache/pip/http-v2/2/a:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 5 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 f
+
+./.cache/pip/http-v2/2/a/f:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 2
+
+./.cache/pip/http-v2/2/a/f/2:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 0
+
+./.cache/pip/http-v2/2/a/f/2/0:
+total 28
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw------- 1 mpirun mpirun  1147 Oct 27 18:13 2af20584b8447077da8368e33b044f11ea1f2b798082d5d77d2f1622
+-rw------- 1 mpirun mpirun 13237 Oct 27 18:13 2af20584b8447077da8368e33b044f11ea1f2b798082d5d77d2f1622.body
+
+./.cache/pip/http-v2/3:
+total 12
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 15 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 5
+
+./.cache/pip/http-v2/3/5:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 d
+
+./.cache/pip/http-v2/3/5/d:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 c
+
+./.cache/pip/http-v2/3/5/d/c:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 3
+
+./.cache/pip/http-v2/3/5/d/c/3:
+total 24
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw------- 1 mpirun mpirun 1191 Oct 27 18:13 35dc3180a04a6a0b47dd59696bd71c99e2a44d6fbe284bdf9b886a63
+-rw------- 1 mpirun mpirun 9974 Oct 27 18:13 35dc3180a04a6a0b47dd59696bd71c99e2a44d6fbe284bdf9b886a63.body
+
+./.cache/pip/http-v2/4:
+total 12
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 15 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 4
+
+./.cache/pip/http-v2/4/4:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 e
+
+./.cache/pip/http-v2/4/4/e:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 5
+
+./.cache/pip/http-v2/4/4/e/5:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 b
+
+./.cache/pip/http-v2/4/4/e/5/b:
+total 28
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw------- 1 mpirun mpirun  1815 Oct 27 18:13 44e5b11a6caa92636d8ccfe658d420ba4ed8f67f7f4e835b214255aa
+-rw------- 1 mpirun mpirun 12385 Oct 27 18:13 44e5b11a6caa92636d8ccfe658d420ba4ed8f67f7f4e835b214255aa.body
+
+./.cache/pip/http-v2/5:
+total 12
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 15 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 0
+
+./.cache/pip/http-v2/5/0:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 8
+
+./.cache/pip/http-v2/5/0/8:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 b
+
+./.cache/pip/http-v2/5/0/8/b:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 7
+
+./.cache/pip/http-v2/5/0/8/b/7:
+total 1236
+drwxr-xr-x 2 mpirun mpirun    4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun    4096 Oct 27 18:13 ..
+-rw------- 1 mpirun mpirun    1156 Oct 27 18:13 508b776f9b7e52497f40ec1b86a936565c3b32f6c04630d0af0e2b23
+-rw------- 1 mpirun mpirun 1249825 Oct 27 18:13 508b776f9b7e52497f40ec1b86a936565c3b32f6c04630d0af0e2b23.body
+
+./.cache/pip/http-v2/6:
+total 12
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 15 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 d
+
+./.cache/pip/http-v2/6/d:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 8
+
+./.cache/pip/http-v2/6/d/8:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 b
+
+./.cache/pip/http-v2/6/d/8/b:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 d
+
+./.cache/pip/http-v2/6/d/8/b/d:
+total 20
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw------- 1 mpirun mpirun 1199 Oct 27 18:13 6d8bd745c524c416e1eb991f4367070847735a0bae24b6e270204329
+-rw------- 1 mpirun mpirun 6855 Oct 27 18:13 6d8bd745c524c416e1eb991f4367070847735a0bae24b6e270204329.body
+
+./.cache/pip/http-v2/7:
+total 12
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 15 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 6
+
+./.cache/pip/http-v2/7/6:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 7
+
+./.cache/pip/http-v2/7/6/7:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 9
+
+./.cache/pip/http-v2/7/6/7/9:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 0
+
+./.cache/pip/http-v2/7/6/7/9/0:
+total 20
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw------- 1 mpirun mpirun 1170 Oct 27 18:13 76790ad34999963d99b7fc7d37ee006df372bfd855a1d0f0ebbf8d7e
+-rw------- 1 mpirun mpirun 6450 Oct 27 18:13 76790ad34999963d99b7fc7d37ee006df372bfd855a1d0f0ebbf8d7e.body
+
+./.cache/pip/http-v2/8:
+total 12
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 15 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 c
+
+./.cache/pip/http-v2/8/c:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 5
+
+./.cache/pip/http-v2/8/c/5:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 4
+
+./.cache/pip/http-v2/8/c/5/4:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 2
+
+./.cache/pip/http-v2/8/c/5/4/2:
+total 16
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw------- 1 mpirun mpirun 1815 Oct 27 18:13 8c54213ac80b2536d9dbc88d24229468300e07d0d4883935e180e4d8
+-rw------- 1 mpirun mpirun 1396 Oct 27 18:13 8c54213ac80b2536d9dbc88d24229468300e07d0d4883935e180e4d8.body
+
+./.cache/pip/http-v2/9:
+total 12
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 15 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 8
+
+./.cache/pip/http-v2/9/8:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 6
+
+./.cache/pip/http-v2/9/8/6:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 5
+
+./.cache/pip/http-v2/9/8/6/5:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 3
+
+./.cache/pip/http-v2/9/8/6/5/3:
+total 40
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw------- 1 mpirun mpirun  1816 Oct 27 18:13 98653a280a2805656b5cf21c326f493463faf932ff154270699fe65a
+-rw------- 1 mpirun mpirun 24806 Oct 27 18:13 98653a280a2805656b5cf21c326f493463faf932ff154270699fe65a.body
+
+./.cache/pip/http-v2/a:
+total 16
+drwxr-xr-x  4 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 15 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 1
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 2
+
+./.cache/pip/http-v2/a/1:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 4 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 9
+
+./.cache/pip/http-v2/a/1/9:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 5
+
+./.cache/pip/http-v2/a/1/9/5:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 3
+
+./.cache/pip/http-v2/a/1/9/5/3:
+total 48
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw------- 1 mpirun mpirun  1817 Oct 27 18:13 a19537d3cf37c122db841d6fe4cd322bc10d1a558bb00d146b85cb9a
+-rw------- 1 mpirun mpirun 34447 Oct 27 18:13 a19537d3cf37c122db841d6fe4cd322bc10d1a558bb00d146b85cb9a.body
+
+./.cache/pip/http-v2/a/2:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 4 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 6
+
+./.cache/pip/http-v2/a/2/6:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 7
+
+./.cache/pip/http-v2/a/2/6/7:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 f
+
+./.cache/pip/http-v2/a/2/6/7/f:
+total 376
+drwxr-xr-x 2 mpirun mpirun   4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun   4096 Oct 27 18:13 ..
+-rw------- 1 mpirun mpirun   1815 Oct 27 18:13 a267f54c19667a20e6416d2dc2a1df4a525eed802f0f2b538b654da1
+-rw------- 1 mpirun mpirun 369845 Oct 27 18:13 a267f54c19667a20e6416d2dc2a1df4a525eed802f0f2b538b654da1.body
+
+./.cache/pip/http-v2/b:
+total 16
+drwxr-xr-x  4 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 15 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 9
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 a
+
+./.cache/pip/http-v2/b/9:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 4 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 3
+
+./.cache/pip/http-v2/b/9/3:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 9
+
+./.cache/pip/http-v2/b/9/3/9:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 c
+
+./.cache/pip/http-v2/b/9/3/9/c:
+total 16
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw------- 1 mpirun mpirun 1201 Oct 27 18:13 b939c4552b20c2f2a36204f6bb1d2e526af7e96070b43b1d2e2e9ae4
+-rw------- 1 mpirun mpirun 1288 Oct 27 18:13 b939c4552b20c2f2a36204f6bb1d2e526af7e96070b43b1d2e2e9ae4.body
+
+./.cache/pip/http-v2/b/a:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 4 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 7
+
+./.cache/pip/http-v2/b/a/7:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 5
+
+./.cache/pip/http-v2/b/a/7/5:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 f
+
+./.cache/pip/http-v2/b/a/7/5/f:
+total 16
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw------- 1 mpirun mpirun 1169 Oct 27 18:13 ba75fc0d876ef5325560a82e412b3d76adb9290b03624e9717131cb1
+-rw------- 1 mpirun mpirun 3161 Oct 27 18:13 ba75fc0d876ef5325560a82e412b3d76adb9290b03624e9717131cb1.body
+
+./.cache/pip/http-v2/c:
+total 20
+drwxr-xr-x  5 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 15 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 7
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 8
+drwxr-xr-x  4 mpirun mpirun 4096 Oct 27 18:13 d
+
+./.cache/pip/http-v2/c/7:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 5 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 4
+
+./.cache/pip/http-v2/c/7/4:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 f
+
+./.cache/pip/http-v2/c/7/4/f:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 f
+
+./.cache/pip/http-v2/c/7/4/f/f:
+total 3556
+drwxr-xr-x 2 mpirun mpirun    4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun    4096 Oct 27 18:13 ..
+-rw------- 1 mpirun mpirun    1154 Oct 27 18:13 c74ff6d1e4ec74a53673a4c44766a9281c0df1cf9f1213a2eb5687e1
+-rw------- 1 mpirun mpirun 3627062 Oct 27 18:13 c74ff6d1e4ec74a53673a4c44766a9281c0df1cf9f1213a2eb5687e1.body
+
+./.cache/pip/http-v2/c/8:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 5 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 4
+
+./.cache/pip/http-v2/c/8/4:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 6
+
+./.cache/pip/http-v2/c/8/4/6:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 0
+
+./.cache/pip/http-v2/c/8/4/6/0:
+total 20
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw------- 1 mpirun mpirun 1813 Oct 27 18:13 c84608549463ae90303a0f39c4b1e01a1717f15e0529931eee51391c
+-rw------- 1 mpirun mpirun 6658 Oct 27 18:13 c84608549463ae90303a0f39c4b1e01a1717f15e0529931eee51391c.body
+
+./.cache/pip/http-v2/c/d:
+total 16
+drwxr-xr-x 4 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 5 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 2
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 6
+
+./.cache/pip/http-v2/c/d/2:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 4 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 3
+
+./.cache/pip/http-v2/c/d/2/3:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 6
+
+./.cache/pip/http-v2/c/d/2/3/6:
+total 20
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw------- 1 mpirun mpirun 1814 Oct 27 18:13 cd2366d413a2e8e87377cfadece7d8173562ece48b2be25218d5714a
+-rw------- 1 mpirun mpirun 8017 Oct 27 18:13 cd2366d413a2e8e87377cfadece7d8173562ece48b2be25218d5714a.body
+
+./.cache/pip/http-v2/c/d/6:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 4 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 0
+
+./.cache/pip/http-v2/c/d/6/0:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 d
+
+./.cache/pip/http-v2/c/d/6/0/d:
+total 68
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw------- 1 mpirun mpirun  1150 Oct 27 18:13 cd60de26b5c99a8064df56c2a3888451ddcd34abbeeb720d610dfdaf
+-rw------- 1 mpirun mpirun 53985 Oct 27 18:13 cd60de26b5c99a8064df56c2a3888451ddcd34abbeeb720d610dfdaf.body
+
+./.cache/pip/selfcheck:
+total 12
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 5 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw------- 1 mpirun mpirun   84 Oct 27 18:13 241e69162522ccf5846a2f42ebc24b17464915a155679666b89a9f31
+
+./.cache/pip/wheels:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 5 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 3c
+
+./.cache/pip/wheels/3c:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ca
+
+./.cache/pip/wheels/3c/ca:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 13
+
+./.cache/pip/wheels/3c/ca/13:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:16 13218a83854023ccec184e3af482f0f038b434aa32c19afee8
+
+./.cache/pip/wheels/3c/ca/13/13218a83854023ccec184e3af482f0f038b434aa32c19afee8:
+total 4180
+drwxr-xr-x 2 mpirun mpirun    4096 Oct 27 18:16 .
+drwxr-xr-x 3 mpirun mpirun    4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun 4266341 Oct 27 18:16 mpi4py-4.0.1-cp310-cp310-linux_x86_64.whl
+-rw-r--r-- 1 mpirun mpirun     328 Oct 27 18:16 origin.json
+
+./.local:
+total 16
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-x--- 1 mpirun mpirun 4096 Oct 28 22:20 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 lib
+
+./.local/lib:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 python3.10
+
+./.local/lib/python3.10:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 8 mpirun mpirun 4096 Oct 27 18:16 site-packages
+
+./.local/lib/python3.10/site-packages:
+total 36
+drwxr-xr-x 8 mpirun mpirun 4096 Oct 27 18:16 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 _distutils_hack
+-rw-r--r-- 1 mpirun mpirun  151 Oct 27 18:13 distutils-precedence.pth
+drwxr-xr-x 6 mpirun mpirun 4096 Oct 27 18:16 mpi4py
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:16 mpi4py-4.0.1.dist-info
+drwxr-xr-x 4 mpirun mpirun 4096 Oct 27 18:13 pkg_resources
+drwxr-xr-x 9 mpirun mpirun 4096 Oct 27 18:13 setuptools
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 setuptools-75.2.0.dist-info
+
+./.local/lib/python3.10/site-packages/_distutils_hack:
+total 24
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 8 mpirun mpirun 4096 Oct 27 18:16 ..
+-rw-r--r-- 1 mpirun mpirun 6754 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 __pycache__
+-rw-r--r-- 1 mpirun mpirun   44 Oct 27 18:13 override.py
+
+./.local/lib/python3.10/site-packages/_distutils_hack/__pycache__:
+total 24
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun 8214 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  220 Oct 27 18:13 override.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/mpi4py:
+total 12208
+drwxr-xr-x 6 mpirun mpirun     4096 Oct 27 18:16 .
+drwxr-xr-x 8 mpirun mpirun     4096 Oct 27 18:16 ..
+-rwxr-xr-x 1 mpirun mpirun 12220488 Oct 27 18:16 MPI.cpython-310-x86_64-linux-gnu.so
+-rw-r--r-- 1 mpirun mpirun     9446 Oct 27 18:16 MPI.h
+-rw-r--r-- 1 mpirun mpirun     3903 Oct 27 18:16 MPI.pxd
+-rw-r--r-- 1 mpirun mpirun    60515 Oct 27 18:16 MPI.pyi
+-rw-r--r-- 1 mpirun mpirun    21219 Oct 27 18:16 MPI_api.h
+-rw-r--r-- 1 mpirun mpirun       56 Oct 27 18:16 __init__.pxd
+-rw-r--r-- 1 mpirun mpirun     5950 Oct 27 18:16 __init__.py
+-rw-r--r-- 1 mpirun mpirun      757 Oct 27 18:16 __init__.pyi
+-rw-r--r-- 1 mpirun mpirun      165 Oct 27 18:16 __main__.py
+-rw-r--r-- 1 mpirun mpirun       30 Oct 27 18:16 __main__.pyi
+drwxr-xr-x 2 mpirun mpirun     4096 Oct 27 18:16 __pycache__
+-rw-r--r-- 1 mpirun mpirun    20020 Oct 27 18:16 bench.py
+-rw-r--r-- 1 mpirun mpirun      565 Oct 27 18:16 bench.pyi
+drwxr-xr-x 3 mpirun mpirun     4096 Oct 27 18:16 futures
+drwxr-xr-x 3 mpirun mpirun     4096 Oct 27 18:16 include
+-rw-r--r-- 1 mpirun mpirun    69366 Oct 27 18:16 libmpi.pxd
+-rw-r--r-- 1 mpirun mpirun       27 Oct 27 18:16 py.typed
+-rw-r--r-- 1 mpirun mpirun     8222 Oct 27 18:16 run.py
+-rw-r--r-- 1 mpirun mpirun      192 Oct 27 18:16 run.pyi
+-rw-r--r-- 1 mpirun mpirun     5171 Oct 27 18:16 typing.py
+-rw-r--r-- 1 mpirun mpirun     3036 Oct 27 18:16 typing.pyi
+drwxr-xr-x 3 mpirun mpirun     4096 Oct 27 18:16 util
+
+./.local/lib/python3.10/site-packages/mpi4py/__pycache__:
+total 48
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:16 .
+drwxr-xr-x 6 mpirun mpirun  4096 Oct 27 18:16 ..
+-rw-r--r-- 1 mpirun mpirun  6204 Oct 27 18:16 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   294 Oct 27 18:16 __main__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 13505 Oct 27 18:16 bench.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  7289 Oct 27 18:16 run.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3398 Oct 27 18:16 typing.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/mpi4py/futures:
+total 132
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:16 .
+drwxr-xr-x 6 mpirun mpirun  4096 Oct 27 18:16 ..
+-rw-r--r-- 1 mpirun mpirun   944 Oct 27 18:16 __init__.py
+-rw-r--r-- 1 mpirun mpirun  1099 Oct 27 18:16 __init__.pyi
+-rw-r--r-- 1 mpirun mpirun  2323 Oct 27 18:16 __main__.py
+-rw-r--r-- 1 mpirun mpirun    24 Oct 27 18:16 __main__.pyi
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:16 __pycache__
+-rw-r--r-- 1 mpirun mpirun   894 Oct 27 18:16 _base.py
+-rw-r--r-- 1 mpirun mpirun   405 Oct 27 18:16 _base.pyi
+-rw-r--r-- 1 mpirun mpirun 32921 Oct 27 18:16 _core.py
+-rw-r--r-- 1 mpirun mpirun  5641 Oct 27 18:16 _core.pyi
+-rw-r--r-- 1 mpirun mpirun  6646 Oct 27 18:16 aplus.py
+-rw-r--r-- 1 mpirun mpirun  1371 Oct 27 18:16 aplus.pyi
+-rw-r--r-- 1 mpirun mpirun 13073 Oct 27 18:16 pool.py
+-rw-r--r-- 1 mpirun mpirun  2634 Oct 27 18:16 pool.pyi
+-rw-r--r-- 1 mpirun mpirun   283 Oct 27 18:16 server.py
+-rw-r--r-- 1 mpirun mpirun    24 Oct 27 18:16 server.pyi
+-rw-r--r-- 1 mpirun mpirun  5236 Oct 27 18:16 util.py
+-rw-r--r-- 1 mpirun mpirun   855 Oct 27 18:16 util.pyi
+
+./.local/lib/python3.10/site-packages/mpi4py/futures/__pycache__:
+total 88
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:16 .
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:16 ..
+-rw-r--r-- 1 mpirun mpirun   832 Oct 27 18:16 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2517 Oct 27 18:16 __main__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   919 Oct 27 18:16 _base.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 31097 Oct 27 18:16 _core.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  5895 Oct 27 18:16 aplus.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 12699 Oct 27 18:16 pool.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   437 Oct 27 18:16 server.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  4703 Oct 27 18:16 util.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/mpi4py/include:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:16 .
+drwxr-xr-x 6 mpirun mpirun 4096 Oct 27 18:16 ..
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:16 mpi4py
+
+./.local/lib/python3.10/site-packages/mpi4py/include/mpi4py:
+total 28
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:16 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:16 ..
+-rw-r--r-- 1 mpirun mpirun   84 Oct 27 18:16 mpi.pxi
+-rw-r--r-- 1 mpirun mpirun  866 Oct 27 18:16 mpi4py.h
+-rw-r--r-- 1 mpirun mpirun 2282 Oct 27 18:16 mpi4py.i
+-rw-r--r-- 1 mpirun mpirun 7144 Oct 27 18:16 pycapi.h
+
+./.local/lib/python3.10/site-packages/mpi4py/util:
+total 108
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:16 .
+drwxr-xr-x 6 mpirun mpirun  4096 Oct 27 18:16 ..
+-rw-r--r-- 1 mpirun mpirun    87 Oct 27 18:16 __init__.py
+-rw-r--r-- 1 mpirun mpirun     8 Oct 27 18:16 __init__.pyi
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:16 __pycache__
+-rw-r--r-- 1 mpirun mpirun  9835 Oct 27 18:16 dtlib.py
+-rw-r--r-- 1 mpirun mpirun   271 Oct 27 18:16 dtlib.pyi
+-rw-r--r-- 1 mpirun mpirun 21944 Oct 27 18:16 pkl5.py
+-rw-r--r-- 1 mpirun mpirun  4935 Oct 27 18:16 pkl5.pyi
+-rw-r--r-- 1 mpirun mpirun 10810 Oct 27 18:16 pool.py
+-rw-r--r-- 1 mpirun mpirun  3481 Oct 27 18:16 pool.pyi
+-rw-r--r-- 1 mpirun mpirun 19695 Oct 27 18:16 sync.py
+-rw-r--r-- 1 mpirun mpirun  2608 Oct 27 18:16 sync.pyi
+
+./.local/lib/python3.10/site-packages/mpi4py/util/__pycache__:
+total 76
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:16 .
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:16 ..
+-rw-r--r-- 1 mpirun mpirun   201 Oct 27 18:16 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  6755 Oct 27 18:16 dtlib.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 21966 Oct 27 18:16 pkl5.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 10210 Oct 27 18:16 pool.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 18191 Oct 27 18:16 sync.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/mpi4py-4.0.1.dist-info:
+total 44
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:16 .
+drwxr-xr-x 8 mpirun mpirun  4096 Oct 27 18:16 ..
+-rw-r--r-- 1 mpirun mpirun     4 Oct 27 18:16 INSTALLER
+-rw-r--r-- 1 mpirun mpirun  1480 Oct 27 18:16 LICENSE.rst
+-rw-r--r-- 1 mpirun mpirun 10278 Oct 27 18:16 METADATA
+-rw-r--r-- 1 mpirun mpirun  5249 Oct 27 18:16 RECORD
+-rw-r--r-- 1 mpirun mpirun     0 Oct 27 18:16 REQUESTED
+-rw-r--r-- 1 mpirun mpirun   104 Oct 27 18:16 WHEEL
+-rw-r--r-- 1 mpirun mpirun     7 Oct 27 18:16 top_level.txt
+
+./.local/lib/python3.10/site-packages/pkg_resources:
+total 156
+drwxr-xr-x 4 mpirun mpirun   4096 Oct 27 18:13 .
+drwxr-xr-x 8 mpirun mpirun   4096 Oct 27 18:16 ..
+-rw-r--r-- 1 mpirun mpirun 126236 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun   4096 Oct 27 18:13 __pycache__
+-rw-r--r-- 1 mpirun mpirun  12595 Oct 27 18:13 api_tests.txt
+-rw-r--r-- 1 mpirun mpirun      0 Oct 27 18:13 py.typed
+drwxr-xr-x 4 mpirun mpirun   4096 Oct 27 18:13 tests
+
+./.local/lib/python3.10/site-packages/pkg_resources/__pycache__:
+total 124
+drwxr-xr-x 2 mpirun mpirun   4096 Oct 27 18:13 .
+drwxr-xr-x 4 mpirun mpirun   4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun 115495 Oct 27 18:13 __init__.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/pkg_resources/tests:
+total 88
+drwxr-xr-x 4 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 4 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun     0 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 __pycache__
+drwxr-xr-x 6 mpirun mpirun  4096 Oct 27 18:13 data
+-rw-r--r-- 1 mpirun mpirun  1972 Oct 27 18:13 test_find_distributions.py
+-rw-r--r-- 1 mpirun mpirun  1652 Oct 27 18:13 test_integration_zope_interface.py
+-rw-r--r-- 1 mpirun mpirun   241 Oct 27 18:13 test_markers.py
+-rw-r--r-- 1 mpirun mpirun 15221 Oct 27 18:13 test_pkg_resources.py
+-rw-r--r-- 1 mpirun mpirun 31252 Oct 27 18:13 test_resources.py
+-rw-r--r-- 1 mpirun mpirun  8531 Oct 27 18:13 test_working_set.py
+
+./.local/lib/python3.10/site-packages/pkg_resources/tests/__pycache__:
+total 80
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 4 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun   173 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2374 Oct 27 18:13 test_find_distributions.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  1575 Oct 27 18:13 test_integration_zope_interface.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   513 Oct 27 18:13 test_markers.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 13661 Oct 27 18:13 test_pkg_resources.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 28168 Oct 27 18:13 test_resources.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  8412 Oct 27 18:13 test_working_set.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/pkg_resources/tests/data:
+total 24
+drwxr-xr-x 6 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 4 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 my-test-package-source
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 my-test-package-zip
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 my-test-package_unpacked-egg
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 my-test-package_zipped-egg
+
+./.local/lib/python3.10/site-packages/pkg_resources/tests/data/my-test-package-source:
+total 16
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 6 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 __pycache__
+-rw-r--r-- 1 mpirun mpirun    0 Oct 27 18:13 setup.cfg
+-rw-r--r-- 1 mpirun mpirun  105 Oct 27 18:13 setup.py
+
+./.local/lib/python3.10/site-packages/pkg_resources/tests/data/my-test-package-source/__pycache__:
+total 12
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun  303 Oct 27 18:13 setup.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/pkg_resources/tests/data/my-test-package-zip:
+total 12
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 6 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun 1809 Oct 27 18:13 my-test-package.zip
+
+./.local/lib/python3.10/site-packages/pkg_resources/tests/data/my-test-package_unpacked-egg:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 6 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 my_test_package-1.0-py3.7.egg
+
+./.local/lib/python3.10/site-packages/pkg_resources/tests/data/my-test-package_unpacked-egg/my_test_package-1.0-py3.7.egg:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 EGG-INFO
+
+./.local/lib/python3.10/site-packages/pkg_resources/tests/data/my-test-package_unpacked-egg/my_test_package-1.0-py3.7.egg/EGG-INFO:
+total 28
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun  187 Oct 27 18:13 PKG-INFO
+-rw-r--r-- 1 mpirun mpirun  208 Oct 27 18:13 SOURCES.txt
+-rw-r--r-- 1 mpirun mpirun    1 Oct 27 18:13 dependency_links.txt
+-rw-r--r-- 1 mpirun mpirun    1 Oct 27 18:13 top_level.txt
+-rw-r--r-- 1 mpirun mpirun    1 Oct 27 18:13 zip-safe
+
+./.local/lib/python3.10/site-packages/pkg_resources/tests/data/my-test-package_zipped-egg:
+total 12
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 6 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun  843 Oct 27 18:13 my_test_package-1.0-py3.7.egg
+
+./.local/lib/python3.10/site-packages/setuptools:
+total 484
+drwxr-xr-x  9 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x  8 mpirun mpirun  4096 Oct 27 18:16 ..
+-rw-r--r--  1 mpirun mpirun 10389 Oct 27 18:13 __init__.py
+drwxr-xr-x  2 mpirun mpirun  4096 Oct 27 18:13 __pycache__
+-rw-r--r--  1 mpirun mpirun  9795 Oct 27 18:13 _core_metadata.py
+drwxr-xr-x  6 mpirun mpirun  4096 Oct 27 18:13 _distutils
+-rw-r--r--  1 mpirun mpirun  2310 Oct 27 18:13 _entry_points.py
+-rw-r--r--  1 mpirun mpirun  2441 Oct 27 18:13 _imp.py
+-rw-r--r--  1 mpirun mpirun   327 Oct 27 18:13 _importlib.py
+-rw-r--r--  1 mpirun mpirun   657 Oct 27 18:13 _itertools.py
+-rw-r--r--  1 mpirun mpirun  4536 Oct 27 18:13 _normalization.py
+-rw-r--r--  1 mpirun mpirun  2700 Oct 27 18:13 _path.py
+-rw-r--r--  1 mpirun mpirun  1411 Oct 27 18:13 _reqs.py
+drwxr-xr-x 33 mpirun mpirun  4096 Oct 27 18:13 _vendor
+-rw-r--r--  1 mpirun mpirun  7332 Oct 27 18:13 archive_util.py
+-rw-r--r--  1 mpirun mpirun 20107 Oct 27 18:13 build_meta.py
+-rw-r--r--  1 mpirun mpirun 11776 Oct 27 18:13 cli-32.exe
+-rw-r--r--  1 mpirun mpirun 14336 Oct 27 18:13 cli-64.exe
+-rw-r--r--  1 mpirun mpirun 13824 Oct 27 18:13 cli-arm64.exe
+-rw-r--r--  1 mpirun mpirun 11776 Oct 27 18:13 cli.exe
+drwxr-xr-x  3 mpirun mpirun  4096 Oct 27 18:13 command
+drwxr-xr-x  3 mpirun mpirun  4096 Oct 27 18:13 compat
+drwxr-xr-x  4 mpirun mpirun  4096 Oct 27 18:13 config
+-rw-r--r--  1 mpirun mpirun  5542 Oct 27 18:13 depends.py
+-rw-r--r--  1 mpirun mpirun 21104 Oct 27 18:13 discovery.py
+-rw-r--r--  1 mpirun mpirun 38036 Oct 27 18:13 dist.py
+-rw-r--r--  1 mpirun mpirun  2988 Oct 27 18:13 errors.py
+-rw-r--r--  1 mpirun mpirun  6457 Oct 27 18:13 extension.py
+-rw-r--r--  1 mpirun mpirun  4852 Oct 27 18:13 glob.py
+-rw-r--r--  1 mpirun mpirun 11776 Oct 27 18:13 gui-32.exe
+-rw-r--r--  1 mpirun mpirun 14336 Oct 27 18:13 gui-64.exe
+-rw-r--r--  1 mpirun mpirun 13824 Oct 27 18:13 gui-arm64.exe
+-rw-r--r--  1 mpirun mpirun 11776 Oct 27 18:13 gui.exe
+-rw-r--r--  1 mpirun mpirun  4970 Oct 27 18:13 installer.py
+-rw-r--r--  1 mpirun mpirun   812 Oct 27 18:13 launch.py
+-rw-r--r--  1 mpirun mpirun  1241 Oct 27 18:13 logging.py
+-rw-r--r--  1 mpirun mpirun   190 Oct 27 18:13 modified.py
+-rw-r--r--  1 mpirun mpirun  3573 Oct 27 18:13 monkey.py
+-rw-r--r--  1 mpirun mpirun 40791 Oct 27 18:13 msvc.py
+-rw-r--r--  1 mpirun mpirun  3155 Oct 27 18:13 namespaces.py
+-rw-r--r--  1 mpirun mpirun 39051 Oct 27 18:13 package_index.py
+-rw-r--r--  1 mpirun mpirun 14550 Oct 27 18:13 sandbox.py
+-rw-r--r--  1 mpirun mpirun   218 Oct 27 18:13 script (dev).tmpl
+-rw-r--r--  1 mpirun mpirun   138 Oct 27 18:13 script.tmpl
+drwxr-xr-x  7 mpirun mpirun  4096 Oct 27 18:13 tests
+-rw-r--r--  1 mpirun mpirun  3181 Oct 27 18:13 unicode_utils.py
+-rw-r--r--  1 mpirun mpirun   161 Oct 27 18:13 version.py
+-rw-r--r--  1 mpirun mpirun  3714 Oct 27 18:13 warnings.py
+-rw-r--r--  1 mpirun mpirun  8628 Oct 27 18:13 wheel.py
+-rw-r--r--  1 mpirun mpirun   726 Oct 27 18:13 windows_support.py
+
+./.local/lib/python3.10/site-packages/setuptools/__pycache__:
+total 308
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 9 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun 11040 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  8423 Oct 27 18:13 _core_metadata.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3249 Oct 27 18:13 _entry_points.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2081 Oct 27 18:13 _imp.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   400 Oct 27 18:13 _importlib.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   882 Oct 27 18:13 _itertools.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  4641 Oct 27 18:13 _normalization.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2899 Oct 27 18:13 _path.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  1612 Oct 27 18:13 _reqs.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  6163 Oct 27 18:13 archive_util.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 18227 Oct 27 18:13 build_meta.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  4981 Oct 27 18:13 depends.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 21048 Oct 27 18:13 discovery.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 32155 Oct 27 18:13 dist.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3207 Oct 27 18:13 errors.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  6227 Oct 27 18:13 extension.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3697 Oct 27 18:13 glob.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3987 Oct 27 18:13 installer.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   893 Oct 27 18:13 launch.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  1252 Oct 27 18:13 logging.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   333 Oct 27 18:13 modified.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3659 Oct 27 18:13 monkey.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 35490 Oct 27 18:13 msvc.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3724 Oct 27 18:13 namespaces.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 33003 Oct 27 18:13 package_index.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 16026 Oct 27 18:13 sandbox.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3162 Oct 27 18:13 unicode_utils.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   319 Oct 27 18:13 version.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3874 Oct 27 18:13 warnings.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  7776 Oct 27 18:13 wheel.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  1033 Oct 27 18:13 windows_support.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_distutils:
+total 400
+drwxr-xr-x 6 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 9 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun   359 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 __pycache__
+-rw-r--r-- 1 mpirun mpirun    42 Oct 27 18:13 _log.py
+-rw-r--r-- 1 mpirun mpirun   239 Oct 27 18:13 _macos_compat.py
+-rw-r--r-- 1 mpirun mpirun  2446 Oct 27 18:13 _modified.py
+-rw-r--r-- 1 mpirun mpirun 20798 Oct 27 18:13 _msvccompiler.py
+-rw-r--r-- 1 mpirun mpirun  7844 Oct 27 18:13 archive_util.py
+-rw-r--r-- 1 mpirun mpirun 48873 Oct 27 18:13 ccompiler.py
+-rw-r--r-- 1 mpirun mpirun 17877 Oct 27 18:13 cmd.py
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:13 command
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:13 compat
+-rw-r--r-- 1 mpirun mpirun  9267 Oct 27 18:13 core.py
+-rw-r--r-- 1 mpirun mpirun 11891 Oct 27 18:13 cygwinccompiler.py
+-rw-r--r-- 1 mpirun mpirun   139 Oct 27 18:13 debug.py
+-rw-r--r-- 1 mpirun mpirun   349 Oct 27 18:13 dep_util.py
+-rw-r--r-- 1 mpirun mpirun  7407 Oct 27 18:13 dir_util.py
+-rw-r--r-- 1 mpirun mpirun 50553 Oct 27 18:13 dist.py
+-rw-r--r-- 1 mpirun mpirun  3325 Oct 27 18:13 errors.py
+-rw-r--r-- 1 mpirun mpirun 10358 Oct 27 18:13 extension.py
+-rw-r--r-- 1 mpirun mpirun 17822 Oct 27 18:13 fancy_getopt.py
+-rw-r--r-- 1 mpirun mpirun  7962 Oct 27 18:13 file_util.py
+-rw-r--r-- 1 mpirun mpirun 13654 Oct 27 18:13 filelist.py
+-rw-r--r-- 1 mpirun mpirun  1200 Oct 27 18:13 log.py
+-rw-r--r-- 1 mpirun mpirun  3625 Oct 27 18:13 spawn.py
+-rw-r--r-- 1 mpirun mpirun 19235 Oct 27 18:13 sysconfig.py
+drwxr-xr-x 4 mpirun mpirun  4096 Oct 27 18:13 tests
+-rw-r--r-- 1 mpirun mpirun 12098 Oct 27 18:13 text_file.py
+-rw-r--r-- 1 mpirun mpirun 15437 Oct 27 18:13 unixccompiler.py
+-rw-r--r-- 1 mpirun mpirun 17654 Oct 27 18:13 util.py
+-rw-r--r-- 1 mpirun mpirun 12634 Oct 27 18:13 version.py
+-rw-r--r-- 1 mpirun mpirun  5205 Oct 27 18:13 versionpredicate.py
+-rw-r--r-- 1 mpirun mpirun  6589 Oct 27 18:13 zosccompiler.py
+
+./.local/lib/python3.10/site-packages/setuptools/_distutils/__pycache__:
+total 304
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 6 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun   365 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   216 Oct 27 18:13 _log.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   439 Oct 27 18:13 _macos_compat.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2970 Oct 27 18:13 _modified.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 14677 Oct 27 18:13 _msvccompiler.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  6130 Oct 27 18:13 archive_util.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 35635 Oct 27 18:13 ccompiler.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 13899 Oct 27 18:13 cmd.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  7069 Oct 27 18:13 core.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  8146 Oct 27 18:13 cygwinccompiler.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   238 Oct 27 18:13 debug.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   574 Oct 27 18:13 dep_util.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  7505 Oct 27 18:13 dir_util.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 35769 Oct 27 18:13 dist.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  4713 Oct 27 18:13 errors.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  7106 Oct 27 18:13 extension.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 10725 Oct 27 18:13 fancy_getopt.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  6026 Oct 27 18:13 file_util.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 10774 Oct 27 18:13 filelist.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  1685 Oct 27 18:13 log.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3486 Oct 27 18:13 spawn.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 14505 Oct 27 18:13 sysconfig.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  8244 Oct 27 18:13 text_file.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 10326 Oct 27 18:13 unixccompiler.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 13450 Oct 27 18:13 util.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  8114 Oct 27 18:13 version.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  5287 Oct 27 18:13 versionpredicate.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  4267 Oct 27 18:13 zosccompiler.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_distutils/command:
+total 244
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 6 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun   386 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 __pycache__
+-rw-r--r-- 1 mpirun mpirun  1609 Oct 27 18:13 _framework_compat.py
+-rw-r--r-- 1 mpirun mpirun  5346 Oct 27 18:13 bdist.py
+-rw-r--r-- 1 mpirun mpirun  4582 Oct 27 18:13 bdist_dumb.py
+-rw-r--r-- 1 mpirun mpirun 21686 Oct 27 18:13 bdist_rpm.py
+-rw-r--r-- 1 mpirun mpirun  5729 Oct 27 18:13 build.py
+-rw-r--r-- 1 mpirun mpirun  7684 Oct 27 18:13 build_clib.py
+-rw-r--r-- 1 mpirun mpirun 31758 Oct 27 18:13 build_ext.py
+-rw-r--r-- 1 mpirun mpirun 16552 Oct 27 18:13 build_py.py
+-rw-r--r-- 1 mpirun mpirun  5534 Oct 27 18:13 build_scripts.py
+-rw-r--r-- 1 mpirun mpirun  4897 Oct 27 18:13 check.py
+-rw-r--r-- 1 mpirun mpirun  2595 Oct 27 18:13 clean.py
+-rw-r--r-- 1 mpirun mpirun 13008 Oct 27 18:13 config.py
+-rw-r--r-- 1 mpirun mpirun 30078 Oct 27 18:13 install.py
+-rw-r--r-- 1 mpirun mpirun  2816 Oct 27 18:13 install_data.py
+-rw-r--r-- 1 mpirun mpirun  2788 Oct 27 18:13 install_egg_info.py
+-rw-r--r-- 1 mpirun mpirun  1184 Oct 27 18:13 install_headers.py
+-rw-r--r-- 1 mpirun mpirun  8330 Oct 27 18:13 install_lib.py
+-rw-r--r-- 1 mpirun mpirun  1937 Oct 27 18:13 install_scripts.py
+-rw-r--r-- 1 mpirun mpirun 18809 Oct 27 18:13 sdist.py
+
+./.local/lib/python3.10/site-packages/setuptools/_distutils/command/__pycache__:
+total 172
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun   484 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  1905 Oct 27 18:13 _framework_compat.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  4065 Oct 27 18:13 bdist.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3581 Oct 27 18:13 bdist_dumb.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 12268 Oct 27 18:13 bdist_rpm.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3934 Oct 27 18:13 build.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  4838 Oct 27 18:13 build_clib.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 16784 Oct 27 18:13 build_ext.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  9789 Oct 27 18:13 build_py.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  4563 Oct 27 18:13 build_scripts.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  4767 Oct 27 18:13 check.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2111 Oct 27 18:13 clean.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 10598 Oct 27 18:13 config.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 17125 Oct 27 18:13 install.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2893 Oct 27 18:13 install_data.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3308 Oct 27 18:13 install_egg_info.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  1740 Oct 27 18:13 install_headers.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  5281 Oct 27 18:13 install_lib.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2183 Oct 27 18:13 install_scripts.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 14391 Oct 27 18:13 sdist.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_distutils/compat:
+total 24
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 6 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun  429 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 __pycache__
+-rw-r--r-- 1 mpirun mpirun  791 Oct 27 18:13 py38.py
+-rw-r--r-- 1 mpirun mpirun 1964 Oct 27 18:13 py39.py
+
+./.local/lib/python3.10/site-packages/setuptools/_distutils/compat/__pycache__:
+total 20
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun  931 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 1003 Oct 27 18:13 py38.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 1920 Oct 27 18:13 py39.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_distutils/tests:
+total 292
+drwxr-xr-x 4 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 6 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun  1476 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 __pycache__
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:13 compat
+-rw-r--r-- 1 mpirun mpirun  4099 Oct 27 18:13 support.py
+-rw-r--r-- 1 mpirun mpirun 11787 Oct 27 18:13 test_archive_util.py
+-rw-r--r-- 1 mpirun mpirun  1396 Oct 27 18:13 test_bdist.py
+-rw-r--r-- 1 mpirun mpirun  2247 Oct 27 18:13 test_bdist_dumb.py
+-rw-r--r-- 1 mpirun mpirun  3933 Oct 27 18:13 test_bdist_rpm.py
+-rw-r--r-- 1 mpirun mpirun  1698 Oct 27 18:13 test_build.py
+-rw-r--r-- 1 mpirun mpirun  4331 Oct 27 18:13 test_build_clib.py
+-rw-r--r-- 1 mpirun mpirun 19961 Oct 27 18:13 test_build_ext.py
+-rw-r--r-- 1 mpirun mpirun  6882 Oct 27 18:13 test_build_py.py
+-rw-r--r-- 1 mpirun mpirun  2880 Oct 27 18:13 test_build_scripts.py
+-rw-r--r-- 1 mpirun mpirun  2964 Oct 27 18:13 test_ccompiler.py
+-rw-r--r-- 1 mpirun mpirun  6226 Oct 27 18:13 test_check.py
+-rw-r--r-- 1 mpirun mpirun  1240 Oct 27 18:13 test_clean.py
+-rw-r--r-- 1 mpirun mpirun  3254 Oct 27 18:13 test_cmd.py
+-rw-r--r-- 1 mpirun mpirun  2664 Oct 27 18:13 test_config_cmd.py
+-rw-r--r-- 1 mpirun mpirun  3829 Oct 27 18:13 test_core.py
+-rw-r--r-- 1 mpirun mpirun  2753 Oct 27 18:13 test_cygwinccompiler.py
+-rw-r--r-- 1 mpirun mpirun  3822 Oct 27 18:13 test_dir_util.py
+-rw-r--r-- 1 mpirun mpirun 18459 Oct 27 18:13 test_dist.py
+-rw-r--r-- 1 mpirun mpirun  3094 Oct 27 18:13 test_extension.py
+-rw-r--r-- 1 mpirun mpirun  3502 Oct 27 18:13 test_file_util.py
+-rw-r--r-- 1 mpirun mpirun 10766 Oct 27 18:13 test_filelist.py
+-rw-r--r-- 1 mpirun mpirun  8618 Oct 27 18:13 test_install.py
+-rw-r--r-- 1 mpirun mpirun  2464 Oct 27 18:13 test_install_data.py
+-rw-r--r-- 1 mpirun mpirun   936 Oct 27 18:13 test_install_headers.py
+-rw-r--r-- 1 mpirun mpirun  3612 Oct 27 18:13 test_install_lib.py
+-rw-r--r-- 1 mpirun mpirun  1600 Oct 27 18:13 test_install_scripts.py
+-rw-r--r-- 1 mpirun mpirun   323 Oct 27 18:13 test_log.py
+-rw-r--r-- 1 mpirun mpirun  2202 Oct 27 18:13 test_mingwccompiler.py
+-rw-r--r-- 1 mpirun mpirun  4221 Oct 27 18:13 test_modified.py
+-rw-r--r-- 1 mpirun mpirun  4301 Oct 27 18:13 test_msvccompiler.py
+-rw-r--r-- 1 mpirun mpirun 15058 Oct 27 18:13 test_sdist.py
+-rw-r--r-- 1 mpirun mpirun  4613 Oct 27 18:13 test_spawn.py
+-rw-r--r-- 1 mpirun mpirun 12010 Oct 27 18:13 test_sysconfig.py
+-rw-r--r-- 1 mpirun mpirun  3460 Oct 27 18:13 test_text_file.py
+-rw-r--r-- 1 mpirun mpirun 11840 Oct 27 18:13 test_unixccompiler.py
+-rw-r--r-- 1 mpirun mpirun  7988 Oct 27 18:13 test_util.py
+-rw-r--r-- 1 mpirun mpirun  2750 Oct 27 18:13 test_version.py
+-rw-r--r-- 1 mpirun mpirun     0 Oct 27 18:13 test_versionpredicate.py
+-rw-r--r-- 1 mpirun mpirun   386 Oct 27 18:13 unix_compat.py
+
+./.local/lib/python3.10/site-packages/setuptools/_distutils/tests/__pycache__:
+total 268
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 4 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun  1499 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  5109 Oct 27 18:13 support.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 10705 Oct 27 18:13 test_archive_util.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  1317 Oct 27 18:13 test_bdist.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2113 Oct 27 18:13 test_bdist_dumb.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3027 Oct 27 18:13 test_bdist_rpm.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  1455 Oct 27 18:13 test_build.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3764 Oct 27 18:13 test_build_clib.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 13691 Oct 27 18:13 test_build_ext.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  5590 Oct 27 18:13 test_build_py.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3126 Oct 27 18:13 test_build_scripts.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2699 Oct 27 18:13 test_ccompiler.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  4434 Oct 27 18:13 test_check.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  1330 Oct 27 18:13 test_clean.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  4086 Oct 27 18:13 test_cmd.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3044 Oct 27 18:13 test_config_cmd.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3983 Oct 27 18:13 test_core.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2950 Oct 27 18:13 test_cygwinccompiler.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  4005 Oct 27 18:13 test_dir_util.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 16409 Oct 27 18:13 test_dist.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2424 Oct 27 18:13 test_extension.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3510 Oct 27 18:13 test_file_util.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  8317 Oct 27 18:13 test_filelist.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  7414 Oct 27 18:13 test_install.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  1869 Oct 27 18:13 test_install_data.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  1169 Oct 27 18:13 test_install_headers.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3132 Oct 27 18:13 test_install_lib.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  1686 Oct 27 18:13 test_install_scripts.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   720 Oct 27 18:13 test_log.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2582 Oct 27 18:13 test_mingwccompiler.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  4205 Oct 27 18:13 test_modified.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  5195 Oct 27 18:13 test_msvccompiler.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 11213 Oct 27 18:13 test_sdist.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3611 Oct 27 18:13 test_spawn.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 10906 Oct 27 18:13 test_sysconfig.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2176 Oct 27 18:13 test_text_file.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  9361 Oct 27 18:13 test_unixccompiler.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  7904 Oct 27 18:13 test_util.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2479 Oct 27 18:13 test_version.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   194 Oct 27 18:13 test_versionpredicate.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   530 Oct 27 18:13 unix_compat.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_distutils/tests/compat:
+total 16
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 4 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun    0 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 __pycache__
+-rw-r--r-- 1 mpirun mpirun 1015 Oct 27 18:13 py38.py
+
+./.local/lib/python3.10/site-packages/setuptools/_distutils/tests/compat/__pycache__:
+total 16
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun  188 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  997 Oct 27 18:13 py38.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor:
+total 268
+drwxr-xr-x 33 mpirun mpirun   4096 Oct 27 18:13 .
+drwxr-xr-x  9 mpirun mpirun   4096 Oct 27 18:13 ..
+drwxr-xr-x  2 mpirun mpirun   4096 Oct 27 18:13 __pycache__
+drwxr-xr-x  3 mpirun mpirun   4096 Oct 27 18:13 autocommand
+drwxr-xr-x  2 mpirun mpirun   4096 Oct 27 18:13 autocommand-2.2.2.dist-info
+drwxr-xr-x  4 mpirun mpirun   4096 Oct 27 18:13 backports
+drwxr-xr-x  2 mpirun mpirun   4096 Oct 27 18:13 backports.tarfile-1.2.0.dist-info
+drwxr-xr-x  4 mpirun mpirun   4096 Oct 27 18:13 importlib_metadata
+drwxr-xr-x  2 mpirun mpirun   4096 Oct 27 18:13 importlib_metadata-8.0.0.dist-info
+drwxr-xr-x  6 mpirun mpirun   4096 Oct 27 18:13 importlib_resources
+drwxr-xr-x  2 mpirun mpirun   4096 Oct 27 18:13 importlib_resources-6.4.0.dist-info
+drwxr-xr-x  4 mpirun mpirun   4096 Oct 27 18:13 inflect
+drwxr-xr-x  2 mpirun mpirun   4096 Oct 27 18:13 inflect-7.3.1.dist-info
+drwxr-xr-x  6 mpirun mpirun   4096 Oct 27 18:13 jaraco
+drwxr-xr-x  2 mpirun mpirun   4096 Oct 27 18:13 jaraco.collections-5.1.0.dist-info
+drwxr-xr-x  2 mpirun mpirun   4096 Oct 27 18:13 jaraco.context-5.3.0.dist-info
+drwxr-xr-x  2 mpirun mpirun   4096 Oct 27 18:13 jaraco.functools-4.0.1.dist-info
+drwxr-xr-x  2 mpirun mpirun   4096 Oct 27 18:13 jaraco.text-3.12.1.dist-info
+drwxr-xr-x  3 mpirun mpirun   4096 Oct 27 18:13 more_itertools
+drwxr-xr-x  2 mpirun mpirun   4096 Oct 27 18:13 more_itertools-10.3.0.dist-info
+drwxr-xr-x  3 mpirun mpirun   4096 Oct 27 18:13 packaging
+drwxr-xr-x  2 mpirun mpirun   4096 Oct 27 18:13 packaging-24.1.dist-info
+drwxr-xr-x  3 mpirun mpirun   4096 Oct 27 18:13 platformdirs
+drwxr-xr-x  3 mpirun mpirun   4096 Oct 27 18:13 platformdirs-4.2.2.dist-info
+-rw-r--r--  1 mpirun mpirun     16 Oct 27 18:13 ruff.toml
+drwxr-xr-x  3 mpirun mpirun   4096 Oct 27 18:13 tomli
+drwxr-xr-x  2 mpirun mpirun   4096 Oct 27 18:13 tomli-2.0.1.dist-info
+drwxr-xr-x  3 mpirun mpirun   4096 Oct 27 18:13 typeguard
+drwxr-xr-x  2 mpirun mpirun   4096 Oct 27 18:13 typeguard-4.3.0.dist-info
+drwxr-xr-x  2 mpirun mpirun   4096 Oct 27 18:13 typing_extensions-4.12.2.dist-info
+-rw-r--r--  1 mpirun mpirun 134451 Oct 27 18:13 typing_extensions.py
+drwxr-xr-x  5 mpirun mpirun   4096 Oct 27 18:13 wheel
+drwxr-xr-x  2 mpirun mpirun   4096 Oct 27 18:13 wheel-0.43.0.dist-info
+drwxr-xr-x  4 mpirun mpirun   4096 Oct 27 18:13 zipp
+drwxr-xr-x  2 mpirun mpirun   4096 Oct 27 18:13 zipp-3.19.2.dist-info
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/__pycache__:
+total 108
+drwxr-xr-x  2 mpirun mpirun   4096 Oct 27 18:13 .
+drwxr-xr-x 33 mpirun mpirun   4096 Oct 27 18:13 ..
+-rw-r--r--  1 mpirun mpirun 100332 Oct 27 18:13 typing_extensions.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/autocommand:
+total 48
+drwxr-xr-x  3 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 33 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r--  1 mpirun mpirun  1037 Oct 27 18:13 __init__.py
+drwxr-xr-x  2 mpirun mpirun  4096 Oct 27 18:13 __pycache__
+-rw-r--r--  1 mpirun mpirun  5680 Oct 27 18:13 autoasync.py
+-rw-r--r--  1 mpirun mpirun  2505 Oct 27 18:13 autocommand.py
+-rw-r--r--  1 mpirun mpirun  2076 Oct 27 18:13 automain.py
+-rw-r--r--  1 mpirun mpirun 11642 Oct 27 18:13 autoparse.py
+-rw-r--r--  1 mpirun mpirun   886 Oct 27 18:13 errors.py
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/autocommand/__pycache__:
+total 44
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun  379 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 4172 Oct 27 18:13 autoasync.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 1024 Oct 27 18:13 autocommand.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 1662 Oct 27 18:13 automain.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 8379 Oct 27 18:13 autoparse.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  409 Oct 27 18:13 errors.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/autocommand-2.2.2.dist-info:
+total 48
+drwxr-xr-x  2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 33 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r--  1 mpirun mpirun     4 Oct 27 18:13 INSTALLER
+-rw-r--r--  1 mpirun mpirun  7634 Oct 27 18:13 LICENSE
+-rw-r--r--  1 mpirun mpirun 15006 Oct 27 18:13 METADATA
+-rw-r--r--  1 mpirun mpirun  1308 Oct 27 18:13 RECORD
+-rw-r--r--  1 mpirun mpirun    92 Oct 27 18:13 WHEEL
+-rw-r--r--  1 mpirun mpirun    12 Oct 27 18:13 top_level.txt
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/backports:
+total 20
+drwxr-xr-x  4 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 33 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r--  1 mpirun mpirun   81 Oct 27 18:13 __init__.py
+drwxr-xr-x  2 mpirun mpirun 4096 Oct 27 18:13 __pycache__
+drwxr-xr-x  4 mpirun mpirun 4096 Oct 27 18:13 tarfile
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/backports/__pycache__:
+total 12
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 4 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun  249 Oct 27 18:13 __init__.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/backports/tarfile:
+total 128
+drwxr-xr-x 4 mpirun mpirun   4096 Oct 27 18:13 .
+drwxr-xr-x 4 mpirun mpirun   4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun 108491 Oct 27 18:13 __init__.py
+-rw-r--r-- 1 mpirun mpirun     59 Oct 27 18:13 __main__.py
+drwxr-xr-x 2 mpirun mpirun   4096 Oct 27 18:13 __pycache__
+drwxr-xr-x 3 mpirun mpirun   4096 Oct 27 18:13 compat
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/backports/tarfile/__pycache__:
+total 84
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 4 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun 71921 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   263 Oct 27 18:13 __main__.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/backports/tarfile/compat:
+total 16
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 4 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun    0 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 __pycache__
+-rw-r--r-- 1 mpirun mpirun  568 Oct 27 18:13 py38.py
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/backports/tarfile/compat/__pycache__:
+total 16
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun  197 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  779 Oct 27 18:13 py38.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/backports.tarfile-1.2.0.dist-info:
+total 32
+drwxr-xr-x  2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 33 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r--  1 mpirun mpirun    4 Oct 27 18:13 INSTALLER
+-rw-r--r--  1 mpirun mpirun 1023 Oct 27 18:13 LICENSE
+-rw-r--r--  1 mpirun mpirun 2020 Oct 27 18:13 METADATA
+-rw-r--r--  1 mpirun mpirun 1360 Oct 27 18:13 RECORD
+-rw-r--r--  1 mpirun mpirun    0 Oct 27 18:13 REQUESTED
+-rw-r--r--  1 mpirun mpirun   92 Oct 27 18:13 WHEEL
+-rw-r--r--  1 mpirun mpirun   10 Oct 27 18:13 top_level.txt
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/importlib_metadata:
+total 84
+drwxr-xr-x  4 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 33 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r--  1 mpirun mpirun 33798 Oct 27 18:13 __init__.py
+drwxr-xr-x  2 mpirun mpirun  4096 Oct 27 18:13 __pycache__
+-rw-r--r--  1 mpirun mpirun  2317 Oct 27 18:13 _adapters.py
+-rw-r--r--  1 mpirun mpirun   743 Oct 27 18:13 _collections.py
+-rw-r--r--  1 mpirun mpirun  1314 Oct 27 18:13 _compat.py
+-rw-r--r--  1 mpirun mpirun  2895 Oct 27 18:13 _functools.py
+-rw-r--r--  1 mpirun mpirun  2068 Oct 27 18:13 _itertools.py
+-rw-r--r--  1 mpirun mpirun  1801 Oct 27 18:13 _meta.py
+-rw-r--r--  1 mpirun mpirun  2166 Oct 27 18:13 _text.py
+drwxr-xr-x  3 mpirun mpirun  4096 Oct 27 18:13 compat
+-rw-r--r--  1 mpirun mpirun   379 Oct 27 18:13 diagnose.py
+-rw-r--r--  1 mpirun mpirun     0 Oct 27 18:13 py.typed
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/importlib_metadata/__pycache__:
+total 80
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 4 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun 40259 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2877 Oct 27 18:13 _adapters.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  1567 Oct 27 18:13 _collections.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  1899 Oct 27 18:13 _compat.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3157 Oct 27 18:13 _functools.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2038 Oct 27 18:13 _itertools.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3364 Oct 27 18:13 _meta.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3090 Oct 27 18:13 _text.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   859 Oct 27 18:13 diagnose.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/importlib_metadata/compat:
+total 20
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 4 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun    0 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 __pycache__
+-rw-r--r-- 1 mpirun mpirun  608 Oct 27 18:13 py311.py
+-rw-r--r-- 1 mpirun mpirun 1102 Oct 27 18:13 py39.py
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/importlib_metadata/compat/__pycache__:
+total 20
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun  198 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 1040 Oct 27 18:13 py311.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 1193 Oct 27 18:13 py39.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/importlib_metadata-8.0.0.dist-info:
+total 44
+drwxr-xr-x  2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 33 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r--  1 mpirun mpirun     4 Oct 27 18:13 INSTALLER
+-rw-r--r--  1 mpirun mpirun 11358 Oct 27 18:13 LICENSE
+-rw-r--r--  1 mpirun mpirun  4648 Oct 27 18:13 METADATA
+-rw-r--r--  1 mpirun mpirun  2518 Oct 27 18:13 RECORD
+-rw-r--r--  1 mpirun mpirun     0 Oct 27 18:13 REQUESTED
+-rw-r--r--  1 mpirun mpirun    91 Oct 27 18:13 WHEEL
+-rw-r--r--  1 mpirun mpirun    19 Oct 27 18:13 top_level.txt
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/importlib_resources:
+total 72
+drwxr-xr-x  6 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 33 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r--  1 mpirun mpirun  505 Oct 27 18:13 __init__.py
+drwxr-xr-x  2 mpirun mpirun 4096 Oct 27 18:13 __pycache__
+-rw-r--r--  1 mpirun mpirun 4482 Oct 27 18:13 _adapters.py
+-rw-r--r--  1 mpirun mpirun 5571 Oct 27 18:13 _common.py
+-rw-r--r--  1 mpirun mpirun 1277 Oct 27 18:13 _itertools.py
+-rw-r--r--  1 mpirun mpirun 5162 Oct 27 18:13 abc.py
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 compat
+-rw-r--r--  1 mpirun mpirun 2651 Oct 27 18:13 functional.py
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 future
+-rw-r--r--  1 mpirun mpirun    0 Oct 27 18:13 py.typed
+-rw-r--r--  1 mpirun mpirun 5863 Oct 27 18:13 readers.py
+-rw-r--r--  1 mpirun mpirun 2584 Oct 27 18:13 simple.py
+drwxr-xr-x  7 mpirun mpirun 4096 Oct 27 18:13 tests
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/importlib_resources/__pycache__:
+total 64
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 6 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun  628 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 7325 Oct 27 18:13 _adapters.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 5708 Oct 27 18:13 _common.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 1384 Oct 27 18:13 _itertools.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 6829 Oct 27 18:13 abc.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 2741 Oct 27 18:13 functional.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 8201 Oct 27 18:13 readers.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 4484 Oct 27 18:13 simple.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/importlib_resources/compat:
+total 20
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 6 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun    0 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 __pycache__
+-rw-r--r-- 1 mpirun mpirun  230 Oct 27 18:13 py38.py
+-rw-r--r-- 1 mpirun mpirun  184 Oct 27 18:13 py39.py
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/importlib_resources/compat/__pycache__:
+total 20
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun  199 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  378 Oct 27 18:13 py38.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  339 Oct 27 18:13 py39.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/importlib_resources/future:
+total 16
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 6 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun    0 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 __pycache__
+-rw-r--r-- 1 mpirun mpirun 2940 Oct 27 18:13 adapters.py
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/importlib_resources/future/__pycache__:
+total 16
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun  199 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 3495 Oct 27 18:13 adapters.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/importlib_resources/tests:
+total 100
+drwxr-xr-x 7 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 6 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun    0 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 __pycache__
+-rw-r--r-- 1 mpirun mpirun 1289 Oct 27 18:13 _path.py
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 compat
+drwxr-xr-x 4 mpirun mpirun 4096 Oct 27 18:13 data01
+drwxr-xr-x 6 mpirun mpirun 4096 Oct 27 18:13 data02
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 namespacedata01
+-rw-r--r-- 1 mpirun mpirun 3314 Oct 27 18:13 test_compatibilty_files.py
+-rw-r--r-- 1 mpirun mpirun  930 Oct 27 18:13 test_contents.py
+-rw-r--r-- 1 mpirun mpirun 1221 Oct 27 18:13 test_custom.py
+-rw-r--r-- 1 mpirun mpirun 3472 Oct 27 18:13 test_files.py
+-rw-r--r-- 1 mpirun mpirun 8591 Oct 27 18:13 test_functional.py
+-rw-r--r-- 1 mpirun mpirun 2778 Oct 27 18:13 test_open.py
+-rw-r--r-- 1 mpirun mpirun 2009 Oct 27 18:13 test_path.py
+-rw-r--r-- 1 mpirun mpirun 3112 Oct 27 18:13 test_read.py
+-rw-r--r-- 1 mpirun mpirun 5001 Oct 27 18:13 test_reader.py
+-rw-r--r-- 1 mpirun mpirun 7823 Oct 27 18:13 test_resource.py
+-rw-r--r-- 1 mpirun mpirun 4745 Oct 27 18:13 util.py
+-rw-r--r-- 1 mpirun mpirun  783 Oct 27 18:13 zip.py
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/importlib_resources/tests/__pycache__:
+total 100
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 7 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun   198 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  1653 Oct 27 18:13 _path.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  5457 Oct 27 18:13 test_compatibilty_files.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  1756 Oct 27 18:13 test_contents.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2307 Oct 27 18:13 test_custom.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  5017 Oct 27 18:13 test_files.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  6783 Oct 27 18:13 test_functional.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  4202 Oct 27 18:13 test_open.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3022 Oct 27 18:13 test_path.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  4131 Oct 27 18:13 test_read.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  6230 Oct 27 18:13 test_reader.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 10580 Oct 27 18:13 test_resource.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  6178 Oct 27 18:13 util.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  1122 Oct 27 18:13 zip.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/importlib_resources/tests/compat:
+total 20
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 7 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun    0 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 __pycache__
+-rw-r--r-- 1 mpirun mpirun  364 Oct 27 18:13 py312.py
+-rw-r--r-- 1 mpirun mpirun  329 Oct 27 18:13 py39.py
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/importlib_resources/tests/compat/__pycache__:
+total 20
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun  205 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  586 Oct 27 18:13 py312.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  502 Oct 27 18:13 py39.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/importlib_resources/tests/data01:
+total 28
+drwxr-xr-x 4 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 7 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun    0 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 __pycache__
+-rw-r--r-- 1 mpirun mpirun    4 Oct 27 18:13 binary.file
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 subdirectory
+-rw-r--r-- 1 mpirun mpirun   44 Oct 27 18:13 utf-16.file
+-rw-r--r-- 1 mpirun mpirun   20 Oct 27 18:13 utf-8.file
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/importlib_resources/tests/data01/__pycache__:
+total 12
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 4 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun  205 Oct 27 18:13 __init__.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/importlib_resources/tests/data01/subdirectory:
+total 16
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 4 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun    0 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 __pycache__
+-rw-r--r-- 1 mpirun mpirun    4 Oct 27 18:13 binary.file
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/importlib_resources/tests/data01/subdirectory/__pycache__:
+total 12
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun  218 Oct 27 18:13 __init__.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/importlib_resources/tests/data02:
+total 24
+drwxr-xr-x 6 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 7 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun    0 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 __pycache__
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 one
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 subdirectory
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 two
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/importlib_resources/tests/data02/__pycache__:
+total 12
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 6 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun  205 Oct 27 18:13 __init__.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/importlib_resources/tests/data02/one:
+total 16
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 6 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun    0 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 __pycache__
+-rw-r--r-- 1 mpirun mpirun   13 Oct 27 18:13 resource1.txt
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/importlib_resources/tests/data02/one/__pycache__:
+total 12
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun  209 Oct 27 18:13 __init__.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/importlib_resources/tests/data02/subdirectory:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 6 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 subsubdir
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/importlib_resources/tests/data02/subdirectory/subsubdir:
+total 12
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun   10 Oct 27 18:13 resource.txt
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/importlib_resources/tests/data02/two:
+total 16
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 6 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun    0 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 __pycache__
+-rw-r--r-- 1 mpirun mpirun   13 Oct 27 18:13 resource2.txt
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/importlib_resources/tests/data02/two/__pycache__:
+total 12
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun  209 Oct 27 18:13 __init__.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/importlib_resources/tests/namespacedata01:
+total 24
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 7 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun    4 Oct 27 18:13 binary.file
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 subdirectory
+-rw-r--r-- 1 mpirun mpirun   44 Oct 27 18:13 utf-16.file
+-rw-r--r-- 1 mpirun mpirun   20 Oct 27 18:13 utf-8.file
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/importlib_resources/tests/namespacedata01/subdirectory:
+total 12
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun    4 Oct 27 18:13 binary.file
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/importlib_resources-6.4.0.dist-info:
+total 44
+drwxr-xr-x  2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 33 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r--  1 mpirun mpirun     4 Oct 27 18:13 INSTALLER
+-rw-r--r--  1 mpirun mpirun 11358 Oct 27 18:13 LICENSE
+-rw-r--r--  1 mpirun mpirun  3944 Oct 27 18:13 METADATA
+-rw-r--r--  1 mpirun mpirun  7620 Oct 27 18:13 RECORD
+-rw-r--r--  1 mpirun mpirun     0 Oct 27 18:13 REQUESTED
+-rw-r--r--  1 mpirun mpirun    92 Oct 27 18:13 WHEEL
+-rw-r--r--  1 mpirun mpirun    20 Oct 27 18:13 top_level.txt
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/inflect:
+total 120
+drwxr-xr-x  4 mpirun mpirun   4096 Oct 27 18:13 .
+drwxr-xr-x 33 mpirun mpirun   4096 Oct 27 18:13 ..
+-rw-r--r--  1 mpirun mpirun 103796 Oct 27 18:13 __init__.py
+drwxr-xr-x  2 mpirun mpirun   4096 Oct 27 18:13 __pycache__
+drwxr-xr-x  3 mpirun mpirun   4096 Oct 27 18:13 compat
+-rw-r--r--  1 mpirun mpirun      0 Oct 27 18:13 py.typed
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/inflect/__pycache__:
+total 84
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 4 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun 74069 Oct 27 18:13 __init__.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/inflect/compat:
+total 16
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 4 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun    0 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 __pycache__
+-rw-r--r-- 1 mpirun mpirun  160 Oct 27 18:13 py38.py
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/inflect/compat/__pycache__:
+total 16
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun  187 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  313 Oct 27 18:13 py38.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/inflect-7.3.1.dist-info:
+total 52
+drwxr-xr-x  2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 33 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r--  1 mpirun mpirun     4 Oct 27 18:13 INSTALLER
+-rw-r--r--  1 mpirun mpirun  1023 Oct 27 18:13 LICENSE
+-rw-r--r--  1 mpirun mpirun 21079 Oct 27 18:13 METADATA
+-rw-r--r--  1 mpirun mpirun   943 Oct 27 18:13 RECORD
+-rw-r--r--  1 mpirun mpirun    91 Oct 27 18:13 WHEEL
+-rw-r--r--  1 mpirun mpirun     8 Oct 27 18:13 top_level.txt
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/jaraco:
+total 36
+drwxr-xr-x  6 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 33 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x  2 mpirun mpirun 4096 Oct 27 18:13 __pycache__
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 collections
+-rw-r--r--  1 mpirun mpirun 9552 Oct 27 18:13 context.py
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 functools
+drwxr-xr-x  3 mpirun mpirun 4096 Oct 27 18:13 text
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/jaraco/__pycache__:
+total 20
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 6 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun 11088 Oct 27 18:13 context.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/jaraco/collections:
+total 40
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 6 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun 26640 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 __pycache__
+-rw-r--r-- 1 mpirun mpirun     0 Oct 27 18:13 py.typed
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/jaraco/collections/__pycache__:
+total 40
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun 32229 Oct 27 18:13 __init__.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/jaraco/functools:
+total 36
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 6 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun 16642 Oct 27 18:13 __init__.py
+-rw-r--r-- 1 mpirun mpirun  3878 Oct 27 18:13 __init__.pyi
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 __pycache__
+-rw-r--r-- 1 mpirun mpirun     0 Oct 27 18:13 py.typed
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/jaraco/functools/__pycache__:
+total 28
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun 19245 Oct 27 18:13 __init__.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/jaraco/text:
+total 52
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 6 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun  1335 Oct 27 18:13 Lorem ipsum.txt
+-rw-r--r-- 1 mpirun mpirun 16250 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 __pycache__
+-rw-r--r-- 1 mpirun mpirun   643 Oct 27 18:13 layouts.py
+-rw-r--r-- 1 mpirun mpirun   904 Oct 27 18:13 show-newlines.py
+-rw-r--r-- 1 mpirun mpirun   412 Oct 27 18:13 strip-prefix.py
+-rw-r--r-- 1 mpirun mpirun   119 Oct 27 18:13 to-dvorak.py
+-rw-r--r-- 1 mpirun mpirun   119 Oct 27 18:13 to-qwerty.py
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/jaraco/text/__pycache__:
+total 48
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun 20464 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   900 Oct 27 18:13 layouts.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  1122 Oct 27 18:13 show-newlines.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   670 Oct 27 18:13 strip-prefix.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   326 Oct 27 18:13 to-dvorak.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   326 Oct 27 18:13 to-qwerty.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/jaraco.collections-5.1.0.dist-info:
+total 32
+drwxr-xr-x  2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 33 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r--  1 mpirun mpirun    4 Oct 27 18:13 INSTALLER
+-rw-r--r--  1 mpirun mpirun 1023 Oct 27 18:13 LICENSE
+-rw-r--r--  1 mpirun mpirun 3933 Oct 27 18:13 METADATA
+-rw-r--r--  1 mpirun mpirun  873 Oct 27 18:13 RECORD
+-rw-r--r--  1 mpirun mpirun    0 Oct 27 18:13 REQUESTED
+-rw-r--r--  1 mpirun mpirun   91 Oct 27 18:13 WHEEL
+-rw-r--r--  1 mpirun mpirun    7 Oct 27 18:13 top_level.txt
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/jaraco.context-5.3.0.dist-info:
+total 32
+drwxr-xr-x  2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 33 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r--  1 mpirun mpirun    4 Oct 27 18:13 INSTALLER
+-rw-r--r--  1 mpirun mpirun 1023 Oct 27 18:13 LICENSE
+-rw-r--r--  1 mpirun mpirun 4020 Oct 27 18:13 METADATA
+-rw-r--r--  1 mpirun mpirun  641 Oct 27 18:13 RECORD
+-rw-r--r--  1 mpirun mpirun   92 Oct 27 18:13 WHEEL
+-rw-r--r--  1 mpirun mpirun    7 Oct 27 18:13 top_level.txt
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/jaraco.functools-4.0.1.dist-info:
+total 32
+drwxr-xr-x  2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 33 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r--  1 mpirun mpirun    4 Oct 27 18:13 INSTALLER
+-rw-r--r--  1 mpirun mpirun 1023 Oct 27 18:13 LICENSE
+-rw-r--r--  1 mpirun mpirun 2891 Oct 27 18:13 METADATA
+-rw-r--r--  1 mpirun mpirun  843 Oct 27 18:13 RECORD
+-rw-r--r--  1 mpirun mpirun   92 Oct 27 18:13 WHEEL
+-rw-r--r--  1 mpirun mpirun    7 Oct 27 18:13 top_level.txt
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/jaraco.text-3.12.1.dist-info:
+total 32
+drwxr-xr-x  2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 33 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r--  1 mpirun mpirun    4 Oct 27 18:13 INSTALLER
+-rw-r--r--  1 mpirun mpirun 1023 Oct 27 18:13 LICENSE
+-rw-r--r--  1 mpirun mpirun 3658 Oct 27 18:13 METADATA
+-rw-r--r--  1 mpirun mpirun 1500 Oct 27 18:13 RECORD
+-rw-r--r--  1 mpirun mpirun    0 Oct 27 18:13 REQUESTED
+-rw-r--r--  1 mpirun mpirun   92 Oct 27 18:13 WHEEL
+-rw-r--r--  1 mpirun mpirun    7 Oct 27 18:13 top_level.txt
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/more_itertools:
+total 228
+drwxr-xr-x  3 mpirun mpirun   4096 Oct 27 18:13 .
+drwxr-xr-x 33 mpirun mpirun   4096 Oct 27 18:13 ..
+-rw-r--r--  1 mpirun mpirun    149 Oct 27 18:13 __init__.py
+-rw-r--r--  1 mpirun mpirun     43 Oct 27 18:13 __init__.pyi
+drwxr-xr-x  2 mpirun mpirun   4096 Oct 27 18:13 __pycache__
+-rw-r--r--  1 mpirun mpirun 148370 Oct 27 18:13 more.py
+-rw-r--r--  1 mpirun mpirun  21484 Oct 27 18:13 more.pyi
+-rw-r--r--  1 mpirun mpirun      0 Oct 27 18:13 py.typed
+-rw-r--r--  1 mpirun mpirun  28591 Oct 27 18:13 recipes.py
+-rw-r--r--  1 mpirun mpirun   4617 Oct 27 18:13 recipes.pyi
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/more_itertools/__pycache__:
+total 180
+drwxr-xr-x 2 mpirun mpirun   4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun   4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun    329 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 138289 Oct 27 18:13 more.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  29222 Oct 27 18:13 recipes.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/more_itertools-10.3.0.dist-info:
+total 60
+drwxr-xr-x  2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 33 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r--  1 mpirun mpirun     4 Oct 27 18:13 INSTALLER
+-rw-r--r--  1 mpirun mpirun  1053 Oct 27 18:13 LICENSE
+-rw-r--r--  1 mpirun mpirun 36293 Oct 27 18:13 METADATA
+-rw-r--r--  1 mpirun mpirun  1259 Oct 27 18:13 RECORD
+-rw-r--r--  1 mpirun mpirun     0 Oct 27 18:13 REQUESTED
+-rw-r--r--  1 mpirun mpirun    81 Oct 27 18:13 WHEEL
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/packaging:
+total 192
+drwxr-xr-x  3 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 33 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r--  1 mpirun mpirun   496 Oct 27 18:13 __init__.py
+drwxr-xr-x  2 mpirun mpirun  4096 Oct 27 18:13 __pycache__
+-rw-r--r--  1 mpirun mpirun  3282 Oct 27 18:13 _elffile.py
+-rw-r--r--  1 mpirun mpirun  9586 Oct 27 18:13 _manylinux.py
+-rw-r--r--  1 mpirun mpirun  2694 Oct 27 18:13 _musllinux.py
+-rw-r--r--  1 mpirun mpirun 10236 Oct 27 18:13 _parser.py
+-rw-r--r--  1 mpirun mpirun  1431 Oct 27 18:13 _structures.py
+-rw-r--r--  1 mpirun mpirun  5273 Oct 27 18:13 _tokenizer.py
+-rw-r--r--  1 mpirun mpirun 10671 Oct 27 18:13 markers.py
+-rw-r--r--  1 mpirun mpirun 32349 Oct 27 18:13 metadata.py
+-rw-r--r--  1 mpirun mpirun     0 Oct 27 18:13 py.typed
+-rw-r--r--  1 mpirun mpirun  2947 Oct 27 18:13 requirements.py
+-rw-r--r--  1 mpirun mpirun 39714 Oct 27 18:13 specifiers.py
+-rw-r--r--  1 mpirun mpirun 18883 Oct 27 18:13 tags.py
+-rw-r--r--  1 mpirun mpirun  5287 Oct 27 18:13 utils.py
+-rw-r--r--  1 mpirun mpirun 16198 Oct 27 18:13 version.py
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/packaging/__pycache__:
+total 156
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun   512 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3355 Oct 27 18:13 _elffile.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  6552 Oct 27 18:13 _manylinux.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3436 Oct 27 18:13 _musllinux.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  9252 Oct 27 18:13 _parser.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2694 Oct 27 18:13 _structures.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  5906 Oct 27 18:13 _tokenizer.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  7575 Oct 27 18:13 markers.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 17327 Oct 27 18:13 metadata.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2906 Oct 27 18:13 requirements.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 31203 Oct 27 18:13 specifiers.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 14106 Oct 27 18:13 tags.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  4678 Oct 27 18:13 utils.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 14230 Oct 27 18:13 version.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/packaging-24.1.dist-info:
+total 44
+drwxr-xr-x  2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 33 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r--  1 mpirun mpirun     4 Oct 27 18:13 INSTALLER
+-rw-r--r--  1 mpirun mpirun   197 Oct 27 18:13 LICENSE
+-rw-r--r--  1 mpirun mpirun 10174 Oct 27 18:13 LICENSE.APACHE
+-rw-r--r--  1 mpirun mpirun  1344 Oct 27 18:13 LICENSE.BSD
+-rw-r--r--  1 mpirun mpirun  3204 Oct 27 18:13 METADATA
+-rw-r--r--  1 mpirun mpirun  2565 Oct 27 18:13 RECORD
+-rw-r--r--  1 mpirun mpirun     0 Oct 27 18:13 REQUESTED
+-rw-r--r--  1 mpirun mpirun    81 Oct 27 18:13 WHEEL
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/platformdirs:
+total 100
+drwxr-xr-x  3 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 33 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r--  1 mpirun mpirun 22225 Oct 27 18:13 __init__.py
+-rw-r--r--  1 mpirun mpirun  1493 Oct 27 18:13 __main__.py
+drwxr-xr-x  2 mpirun mpirun  4096 Oct 27 18:13 __pycache__
+-rw-r--r--  1 mpirun mpirun  9016 Oct 27 18:13 android.py
+-rw-r--r--  1 mpirun mpirun  8996 Oct 27 18:13 api.py
+-rw-r--r--  1 mpirun mpirun  5580 Oct 27 18:13 macos.py
+-rw-r--r--  1 mpirun mpirun     0 Oct 27 18:13 py.typed
+-rw-r--r--  1 mpirun mpirun 10643 Oct 27 18:13 unix.py
+-rw-r--r--  1 mpirun mpirun   411 Oct 27 18:13 version.py
+-rw-r--r--  1 mpirun mpirun 10125 Oct 27 18:13 windows.py
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/platformdirs/__pycache__:
+total 84
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun 15783 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  1380 Oct 27 18:13 __main__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  7400 Oct 27 18:13 android.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  9919 Oct 27 18:13 api.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  5885 Oct 27 18:13 macos.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 10741 Oct 27 18:13 unix.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   507 Oct 27 18:13 version.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  9080 Oct 27 18:13 windows.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/platformdirs-4.2.2.dist-info:
+total 36
+drwxr-xr-x  3 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 33 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r--  1 mpirun mpirun     4 Oct 27 18:13 INSTALLER
+-rw-r--r--  1 mpirun mpirun 11429 Oct 27 18:13 METADATA
+-rw-r--r--  1 mpirun mpirun  1642 Oct 27 18:13 RECORD
+-rw-r--r--  1 mpirun mpirun     0 Oct 27 18:13 REQUESTED
+-rw-r--r--  1 mpirun mpirun    87 Oct 27 18:13 WHEEL
+drwxr-xr-x  2 mpirun mpirun  4096 Oct 27 18:13 licenses
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/platformdirs-4.2.2.dist-info/licenses:
+total 12
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun 1089 Oct 27 18:13 LICENSE
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/tomli:
+total 52
+drwxr-xr-x  3 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 33 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r--  1 mpirun mpirun   396 Oct 27 18:13 __init__.py
+drwxr-xr-x  2 mpirun mpirun  4096 Oct 27 18:13 __pycache__
+-rw-r--r--  1 mpirun mpirun 22633 Oct 27 18:13 _parser.py
+-rw-r--r--  1 mpirun mpirun  2943 Oct 27 18:13 _re.py
+-rw-r--r--  1 mpirun mpirun   254 Oct 27 18:13 _types.py
+-rw-r--r--  1 mpirun mpirun    26 Oct 27 18:13 py.typed
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/tomli/__pycache__:
+total 40
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun   344 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 17058 Oct 27 18:13 _parser.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2890 Oct 27 18:13 _re.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   314 Oct 27 18:13 _types.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/tomli-2.0.1.dist-info:
+total 36
+drwxr-xr-x  2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 33 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r--  1 mpirun mpirun    4 Oct 27 18:13 INSTALLER
+-rw-r--r--  1 mpirun mpirun 1072 Oct 27 18:13 LICENSE
+-rw-r--r--  1 mpirun mpirun 8875 Oct 27 18:13 METADATA
+-rw-r--r--  1 mpirun mpirun  999 Oct 27 18:13 RECORD
+-rw-r--r--  1 mpirun mpirun    0 Oct 27 18:13 REQUESTED
+-rw-r--r--  1 mpirun mpirun   81 Oct 27 18:13 WHEEL
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/typeguard:
+total 160
+drwxr-xr-x  3 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 33 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r--  1 mpirun mpirun  2071 Oct 27 18:13 __init__.py
+drwxr-xr-x  2 mpirun mpirun  4096 Oct 27 18:13 __pycache__
+-rw-r--r--  1 mpirun mpirun 31360 Oct 27 18:13 _checkers.py
+-rw-r--r--  1 mpirun mpirun  2846 Oct 27 18:13 _config.py
+-rw-r--r--  1 mpirun mpirun  9033 Oct 27 18:13 _decorators.py
+-rw-r--r--  1 mpirun mpirun  1121 Oct 27 18:13 _exceptions.py
+-rw-r--r--  1 mpirun mpirun 10393 Oct 27 18:13 _functions.py
+-rw-r--r--  1 mpirun mpirun  6389 Oct 27 18:13 _importhook.py
+-rw-r--r--  1 mpirun mpirun  1303 Oct 27 18:13 _memo.py
+-rw-r--r--  1 mpirun mpirun  4416 Oct 27 18:13 _pytest_plugin.py
+-rw-r--r--  1 mpirun mpirun  2266 Oct 27 18:13 _suppression.py
+-rw-r--r--  1 mpirun mpirun 44937 Oct 27 18:13 _transformer.py
+-rw-r--r--  1 mpirun mpirun  1354 Oct 27 18:13 _union_transformer.py
+-rw-r--r--  1 mpirun mpirun  5270 Oct 27 18:13 _utils.py
+-rw-r--r--  1 mpirun mpirun     0 Oct 27 18:13 py.typed
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/typeguard/__pycache__:
+total 116
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun  1768 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 19814 Oct 27 18:13 _checkers.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3438 Oct 27 18:13 _config.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  7143 Oct 27 18:13 _decorators.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2161 Oct 27 18:13 _exceptions.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  7704 Oct 27 18:13 _functions.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  7006 Oct 27 18:13 _importhook.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  1630 Oct 27 18:13 _memo.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  4076 Oct 27 18:13 _pytest_plugin.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2699 Oct 27 18:13 _suppression.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 28141 Oct 27 18:13 _transformer.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  1906 Oct 27 18:13 _union_transformer.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  5187 Oct 27 18:13 _utils.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/typeguard-4.3.0.dist-info:
+total 36
+drwxr-xr-x  2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 33 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r--  1 mpirun mpirun    4 Oct 27 18:13 INSTALLER
+-rw-r--r--  1 mpirun mpirun 1130 Oct 27 18:13 LICENSE
+-rw-r--r--  1 mpirun mpirun 3717 Oct 27 18:13 METADATA
+-rw-r--r--  1 mpirun mpirun 2402 Oct 27 18:13 RECORD
+-rw-r--r--  1 mpirun mpirun   92 Oct 27 18:13 WHEEL
+-rw-r--r--  1 mpirun mpirun   48 Oct 27 18:13 entry_points.txt
+-rw-r--r--  1 mpirun mpirun   10 Oct 27 18:13 top_level.txt
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/typing_extensions-4.12.2.dist-info:
+total 40
+drwxr-xr-x  2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 33 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r--  1 mpirun mpirun     4 Oct 27 18:13 INSTALLER
+-rw-r--r--  1 mpirun mpirun 13936 Oct 27 18:13 LICENSE
+-rw-r--r--  1 mpirun mpirun  3018 Oct 27 18:13 METADATA
+-rw-r--r--  1 mpirun mpirun   571 Oct 27 18:13 RECORD
+-rw-r--r--  1 mpirun mpirun    81 Oct 27 18:13 WHEEL
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/wheel:
+total 92
+drwxr-xr-x  5 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 33 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r--  1 mpirun mpirun    59 Oct 27 18:13 __init__.py
+-rw-r--r--  1 mpirun mpirun   455 Oct 27 18:13 __main__.py
+drwxr-xr-x  2 mpirun mpirun  4096 Oct 27 18:13 __pycache__
+-rw-r--r--  1 mpirun mpirun   746 Oct 27 18:13 _setuptools_logging.py
+-rw-r--r--  1 mpirun mpirun 20938 Oct 27 18:13 bdist_wheel.py
+drwxr-xr-x  3 mpirun mpirun  4096 Oct 27 18:13 cli
+-rw-r--r--  1 mpirun mpirun 16103 Oct 27 18:13 macosx_libfile.py
+-rw-r--r--  1 mpirun mpirun  5884 Oct 27 18:13 metadata.py
+-rw-r--r--  1 mpirun mpirun   621 Oct 27 18:13 util.py
+drwxr-xr-x  4 mpirun mpirun  4096 Oct 27 18:13 vendored
+-rw-r--r--  1 mpirun mpirun  7694 Oct 27 18:13 wheelfile.py
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/wheel/__pycache__:
+total 68
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 5 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun   251 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   649 Oct 27 18:13 __main__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   955 Oct 27 18:13 _setuptools_logging.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 14223 Oct 27 18:13 bdist_wheel.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  9922 Oct 27 18:13 macosx_libfile.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  5844 Oct 27 18:13 metadata.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   887 Oct 27 18:13 util.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  5656 Oct 27 18:13 wheelfile.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/wheel/cli:
+total 48
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 5 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun 4264 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 __pycache__
+-rw-r--r-- 1 mpirun mpirun 9439 Oct 27 18:13 convert.py
+-rw-r--r-- 1 mpirun mpirun 3103 Oct 27 18:13 pack.py
+-rw-r--r-- 1 mpirun mpirun 4760 Oct 27 18:13 tags.py
+-rw-r--r-- 1 mpirun mpirun 1021 Oct 27 18:13 unpack.py
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/wheel/cli/__pycache__:
+total 36
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun 4540 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 6377 Oct 27 18:13 convert.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 3119 Oct 27 18:13 pack.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 3868 Oct 27 18:13 tags.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 1121 Oct 27 18:13 unpack.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/wheel/vendored:
+total 20
+drwxr-xr-x 4 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 5 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun    0 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 __pycache__
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 packaging
+-rw-r--r-- 1 mpirun mpirun   16 Oct 27 18:13 vendor.txt
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/wheel/vendored/__pycache__:
+total 12
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 4 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun  187 Oct 27 18:13 __init__.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/wheel/vendored/packaging:
+total 156
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 4 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun     0 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 __pycache__
+-rw-r--r-- 1 mpirun mpirun  3266 Oct 27 18:13 _elffile.py
+-rw-r--r-- 1 mpirun mpirun  9588 Oct 27 18:13 _manylinux.py
+-rw-r--r-- 1 mpirun mpirun  2674 Oct 27 18:13 _musllinux.py
+-rw-r--r-- 1 mpirun mpirun 10347 Oct 27 18:13 _parser.py
+-rw-r--r-- 1 mpirun mpirun  1431 Oct 27 18:13 _structures.py
+-rw-r--r-- 1 mpirun mpirun  5292 Oct 27 18:13 _tokenizer.py
+-rw-r--r-- 1 mpirun mpirun  8232 Oct 27 18:13 markers.py
+-rw-r--r-- 1 mpirun mpirun  2933 Oct 27 18:13 requirements.py
+-rw-r--r-- 1 mpirun mpirun 39778 Oct 27 18:13 specifiers.py
+-rw-r--r-- 1 mpirun mpirun 18950 Oct 27 18:13 tags.py
+-rw-r--r-- 1 mpirun mpirun  5268 Oct 27 18:13 utils.py
+-rw-r--r-- 1 mpirun mpirun 16234 Oct 27 18:13 version.py
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/wheel/vendored/packaging/__pycache__:
+total 136
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun   197 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3319 Oct 27 18:13 _elffile.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  6428 Oct 27 18:13 _manylinux.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3347 Oct 27 18:13 _musllinux.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  8971 Oct 27 18:13 _parser.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2709 Oct 27 18:13 _structures.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  5829 Oct 27 18:13 _tokenizer.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  6915 Oct 27 18:13 markers.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2842 Oct 27 18:13 requirements.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 31001 Oct 27 18:13 specifiers.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 13809 Oct 27 18:13 tags.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  4527 Oct 27 18:13 utils.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 14172 Oct 27 18:13 version.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/wheel-0.43.0.dist-info:
+total 36
+drwxr-xr-x  2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 33 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r--  1 mpirun mpirun    4 Oct 27 18:13 INSTALLER
+-rw-r--r--  1 mpirun mpirun 1107 Oct 27 18:13 LICENSE.txt
+-rw-r--r--  1 mpirun mpirun 2153 Oct 27 18:13 METADATA
+-rw-r--r--  1 mpirun mpirun 4557 Oct 27 18:13 RECORD
+-rw-r--r--  1 mpirun mpirun    0 Oct 27 18:13 REQUESTED
+-rw-r--r--  1 mpirun mpirun   81 Oct 27 18:13 WHEEL
+-rw-r--r--  1 mpirun mpirun  104 Oct 27 18:13 entry_points.txt
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/zipp:
+total 36
+drwxr-xr-x  4 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 33 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r--  1 mpirun mpirun 13412 Oct 27 18:13 __init__.py
+drwxr-xr-x  2 mpirun mpirun  4096 Oct 27 18:13 __pycache__
+drwxr-xr-x  3 mpirun mpirun  4096 Oct 27 18:13 compat
+-rw-r--r--  1 mpirun mpirun  3082 Oct 27 18:13 glob.py
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/zipp/__pycache__:
+total 28
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 4 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun 16195 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3957 Oct 27 18:13 glob.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/zipp/compat:
+total 16
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 4 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun    0 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 __pycache__
+-rw-r--r-- 1 mpirun mpirun  219 Oct 27 18:13 py310.py
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/zipp/compat/__pycache__:
+total 16
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun  184 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  425 Oct 27 18:13 py310.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/_vendor/zipp-3.19.2.dist-info:
+total 32
+drwxr-xr-x  2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 33 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r--  1 mpirun mpirun    4 Oct 27 18:13 INSTALLER
+-rw-r--r--  1 mpirun mpirun 1023 Oct 27 18:13 LICENSE
+-rw-r--r--  1 mpirun mpirun 3575 Oct 27 18:13 METADATA
+-rw-r--r--  1 mpirun mpirun 1039 Oct 27 18:13 RECORD
+-rw-r--r--  1 mpirun mpirun    0 Oct 27 18:13 REQUESTED
+-rw-r--r--  1 mpirun mpirun   92 Oct 27 18:13 WHEEL
+-rw-r--r--  1 mpirun mpirun    5 Oct 27 18:13 top_level.txt
+
+./.local/lib/python3.10/site-packages/setuptools/command:
+total 348
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 9 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun   397 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 __pycache__
+-rw-r--r-- 1 mpirun mpirun  4227 Oct 27 18:13 _requirestxt.py
+-rw-r--r-- 1 mpirun mpirun  2383 Oct 27 18:13 alias.py
+-rw-r--r-- 1 mpirun mpirun 16526 Oct 27 18:13 bdist_egg.py
+-rw-r--r-- 1 mpirun mpirun  1427 Oct 27 18:13 bdist_rpm.py
+-rw-r--r-- 1 mpirun mpirun 23652 Oct 27 18:13 bdist_wheel.py
+-rw-r--r-- 1 mpirun mpirun  6028 Oct 27 18:13 build.py
+-rw-r--r-- 1 mpirun mpirun  4736 Oct 27 18:13 build_clib.py
+-rw-r--r-- 1 mpirun mpirun 18264 Oct 27 18:13 build_ext.py
+-rw-r--r-- 1 mpirun mpirun 15327 Oct 27 18:13 build_py.py
+-rw-r--r-- 1 mpirun mpirun  6854 Oct 27 18:13 develop.py
+-rw-r--r-- 1 mpirun mpirun  3508 Oct 27 18:13 dist_info.py
+-rw-r--r-- 1 mpirun mpirun 88305 Oct 27 18:13 easy_install.py
+-rw-r--r-- 1 mpirun mpirun 35665 Oct 27 18:13 editable_wheel.py
+-rw-r--r-- 1 mpirun mpirun 25783 Oct 27 18:13 egg_info.py
+-rw-r--r-- 1 mpirun mpirun  6208 Oct 27 18:13 install.py
+-rw-r--r-- 1 mpirun mpirun  2046 Oct 27 18:13 install_egg_info.py
+-rw-r--r-- 1 mpirun mpirun  4133 Oct 27 18:13 install_lib.py
+-rw-r--r-- 1 mpirun mpirun  2614 Oct 27 18:13 install_scripts.py
+-rw-r--r-- 1 mpirun mpirun   628 Oct 27 18:13 launcher manifest.xml
+-rw-r--r-- 1 mpirun mpirun  2145 Oct 27 18:13 rotate.py
+-rw-r--r-- 1 mpirun mpirun   657 Oct 27 18:13 saveopts.py
+-rw-r--r-- 1 mpirun mpirun  7277 Oct 27 18:13 sdist.py
+-rw-r--r-- 1 mpirun mpirun  5019 Oct 27 18:13 setopt.py
+-rw-r--r-- 1 mpirun mpirun  1343 Oct 27 18:13 test.py
+
+./.local/lib/python3.10/site-packages/setuptools/command/__pycache__:
+total 296
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun   430 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  4605 Oct 27 18:13 _requirestxt.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2363 Oct 27 18:13 alias.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 13243 Oct 27 18:13 bdist_egg.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  1785 Oct 27 18:13 bdist_rpm.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 16600 Oct 27 18:13 bdist_wheel.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  5279 Oct 27 18:13 build.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2625 Oct 27 18:13 build_clib.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 13999 Oct 27 18:13 build_ext.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 14983 Oct 27 18:13 build_py.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  6081 Oct 27 18:13 develop.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3393 Oct 27 18:13 dist_info.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 65501 Oct 27 18:13 easy_install.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 35666 Oct 27 18:13 editable_wheel.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 22111 Oct 27 18:13 egg_info.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  4929 Oct 27 18:13 install.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2356 Oct 27 18:13 install_egg_info.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  4427 Oct 27 18:13 install_lib.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2566 Oct 27 18:13 install_scripts.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2575 Oct 27 18:13 rotate.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   913 Oct 27 18:13 saveopts.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  7909 Oct 27 18:13 sdist.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  4741 Oct 27 18:13 setopt.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  1733 Oct 27 18:13 test.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/compat:
+total 28
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 9 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun    0 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 __pycache__
+-rw-r--r-- 1 mpirun mpirun  141 Oct 27 18:13 py310.py
+-rw-r--r-- 1 mpirun mpirun  790 Oct 27 18:13 py311.py
+-rw-r--r-- 1 mpirun mpirun  366 Oct 27 18:13 py312.py
+-rw-r--r-- 1 mpirun mpirun  493 Oct 27 18:13 py39.py
+
+./.local/lib/python3.10/site-packages/setuptools/compat/__pycache__:
+total 28
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun  171 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  283 Oct 27 18:13 py310.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 1195 Oct 27 18:13 py311.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  402 Oct 27 18:13 py312.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  257 Oct 27 18:13 py39.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/config:
+total 124
+drwxr-xr-x 4 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 9 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun   493 Oct 27 18:13 NOTICE
+-rw-r--r-- 1 mpirun mpirun  1499 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 __pycache__
+-rw-r--r-- 1 mpirun mpirun 15457 Oct 27 18:13 _apply_pyprojecttoml.py
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:13 _validate_pyproject
+-rw-r--r-- 1 mpirun mpirun   972 Oct 27 18:13 distutils.schema.json
+-rw-r--r-- 1 mpirun mpirun 15659 Oct 27 18:13 expand.py
+-rw-r--r-- 1 mpirun mpirun 18142 Oct 27 18:13 pyprojecttoml.py
+-rw-r--r-- 1 mpirun mpirun 25634 Oct 27 18:13 setupcfg.py
+-rw-r--r-- 1 mpirun mpirun 16071 Oct 27 18:13 setuptools.schema.json
+
+./.local/lib/python3.10/site-packages/setuptools/config/__pycache__:
+total 88
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 4 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun  1630 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 15780 Oct 27 18:13 _apply_pyprojecttoml.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 18050 Oct 27 18:13 expand.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 15911 Oct 27 18:13 pyprojecttoml.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 23566 Oct 27 18:13 setupcfg.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/config/_validate_pyproject:
+total 400
+drwxr-xr-x 3 mpirun mpirun   4096 Oct 27 18:13 .
+drwxr-xr-x 4 mpirun mpirun   4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun  18737 Oct 27 18:13 NOTICE
+-rw-r--r-- 1 mpirun mpirun   1042 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun   4096 Oct 27 18:13 __pycache__
+-rw-r--r-- 1 mpirun mpirun  11813 Oct 27 18:13 error_reporting.py
+-rw-r--r-- 1 mpirun mpirun   1625 Oct 27 18:13 extra_validations.py
+-rw-r--r-- 1 mpirun mpirun   1612 Oct 27 18:13 fastjsonschema_exceptions.py
+-rw-r--r-- 1 mpirun mpirun 335460 Oct 27 18:13 fastjsonschema_validations.py
+-rw-r--r-- 1 mpirun mpirun  12814 Oct 27 18:13 formats.py
+
+./.local/lib/python3.10/site-packages/setuptools/config/_validate_pyproject/__pycache__:
+total 132
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun  1510 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 12030 Oct 27 18:13 error_reporting.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  1604 Oct 27 18:13 extra_validations.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2436 Oct 27 18:13 fastjsonschema_exceptions.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 85784 Oct 27 18:13 fastjsonschema_validations.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 12521 Oct 27 18:13 formats.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/tests:
+total 560
+drwxr-xr-x 7 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 9 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun   335 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 __pycache__
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:13 compat
+drwxr-xr-x 4 mpirun mpirun  4096 Oct 27 18:13 config
+-rw-r--r-- 1 mpirun mpirun  3480 Oct 27 18:13 contexts.py
+-rw-r--r-- 1 mpirun mpirun  3102 Oct 27 18:13 environment.py
+-rw-r--r-- 1 mpirun mpirun  5197 Oct 27 18:13 fixtures.py
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:13 indexes
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:13 integration
+-rw-r--r-- 1 mpirun mpirun    22 Oct 27 18:13 mod_with_constant.py
+-rw-r--r-- 1 mpirun mpirun  2774 Oct 27 18:13 namespaces.py
+-rw-r--r-- 1 mpirun mpirun    18 Oct 27 18:13 script-with-bom.py
+-rw-r--r-- 1 mpirun mpirun  2403 Oct 27 18:13 server.py
+-rw-r--r-- 1 mpirun mpirun   845 Oct 27 18:13 test_archive_util.py
+-rw-r--r-- 1 mpirun mpirun   775 Oct 27 18:13 test_bdist_deprecations.py
+-rw-r--r-- 1 mpirun mpirun  1851 Oct 27 18:13 test_bdist_egg.py
+-rw-r--r-- 1 mpirun mpirun 20485 Oct 27 18:13 test_bdist_wheel.py
+-rw-r--r-- 1 mpirun mpirun   798 Oct 27 18:13 test_build.py
+-rw-r--r-- 1 mpirun mpirun  3123 Oct 27 18:13 test_build_clib.py
+-rw-r--r-- 1 mpirun mpirun 10036 Oct 27 18:13 test_build_ext.py
+-rw-r--r-- 1 mpirun mpirun 33570 Oct 27 18:13 test_build_meta.py
+-rw-r--r-- 1 mpirun mpirun 14185 Oct 27 18:13 test_build_py.py
+-rw-r--r-- 1 mpirun mpirun 22562 Oct 27 18:13 test_config_discovery.py
+-rw-r--r-- 1 mpirun mpirun 12183 Oct 27 18:13 test_core_metadata.py
+-rw-r--r-- 1 mpirun mpirun   424 Oct 27 18:13 test_depends.py
+-rw-r--r-- 1 mpirun mpirun  5142 Oct 27 18:13 test_develop.py
+-rw-r--r-- 1 mpirun mpirun  8851 Oct 27 18:13 test_dist.py
+-rw-r--r-- 1 mpirun mpirun  7090 Oct 27 18:13 test_dist_info.py
+-rw-r--r-- 1 mpirun mpirun  4747 Oct 27 18:13 test_distutils_adoption.py
+-rw-r--r-- 1 mpirun mpirun 53241 Oct 27 18:13 test_easy_install.py
+-rw-r--r-- 1 mpirun mpirun 43304 Oct 27 18:13 test_editable_install.py
+-rw-r--r-- 1 mpirun mpirun 44145 Oct 27 18:13 test_egg_info.py
+-rw-r--r-- 1 mpirun mpirun   296 Oct 27 18:13 test_extern.py
+-rw-r--r-- 1 mpirun mpirun  7819 Oct 27 18:13 test_find_packages.py
+-rw-r--r-- 1 mpirun mpirun  2404 Oct 27 18:13 test_find_py_modules.py
+-rw-r--r-- 1 mpirun mpirun   881 Oct 27 18:13 test_glob.py
+-rw-r--r-- 1 mpirun mpirun  3441 Oct 27 18:13 test_install_scripts.py
+-rw-r--r-- 1 mpirun mpirun  2095 Oct 27 18:13 test_logging.py
+-rw-r--r-- 1 mpirun mpirun 18761 Oct 27 18:13 test_manifest.py
+-rw-r--r-- 1 mpirun mpirun  4515 Oct 27 18:13 test_namespaces.py
+-rw-r--r-- 1 mpirun mpirun  8975 Oct 27 18:13 test_packageindex.py
+-rw-r--r-- 1 mpirun mpirun  4333 Oct 27 18:13 test_sandbox.py
+-rw-r--r-- 1 mpirun mpirun 32440 Oct 27 18:13 test_sdist.py
+-rw-r--r-- 1 mpirun mpirun  1365 Oct 27 18:13 test_setopt.py
+-rw-r--r-- 1 mpirun mpirun  8978 Oct 27 18:13 test_setuptools.py
+-rw-r--r-- 1 mpirun mpirun   316 Oct 27 18:13 test_unicode_utils.py
+-rw-r--r-- 1 mpirun mpirun  3730 Oct 27 18:13 test_virtualenv.py
+-rw-r--r-- 1 mpirun mpirun  3347 Oct 27 18:13 test_warnings.py
+-rw-r--r-- 1 mpirun mpirun 19259 Oct 27 18:13 test_wheel.py
+-rw-r--r-- 1 mpirun mpirun  7894 Oct 27 18:13 test_windows_wrappers.py
+-rw-r--r-- 1 mpirun mpirun   123 Oct 27 18:13 text.py
+-rw-r--r-- 1 mpirun mpirun    98 Oct 27 18:13 textwrap.py
+
+./.local/lib/python3.10/site-packages/setuptools/tests/__pycache__:
+total 488
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 7 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun   477 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3949 Oct 27 18:13 contexts.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2114 Oct 27 18:13 environment.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  4132 Oct 27 18:13 fixtures.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   200 Oct 27 18:13 mod_with_constant.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2750 Oct 27 18:13 namespaces.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   194 Oct 27 18:13 script-with-bom.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3380 Oct 27 18:13 server.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  1168 Oct 27 18:13 test_archive_util.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  1045 Oct 27 18:13 test_bdist_deprecations.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2345 Oct 27 18:13 test_bdist_egg.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 20671 Oct 27 18:13 test_bdist_wheel.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  1402 Oct 27 18:13 test_build.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2275 Oct 27 18:13 test_build_clib.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  9292 Oct 27 18:13 test_build_ext.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 28801 Oct 27 18:13 test_build_meta.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 10867 Oct 27 18:13 test_build_py.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 20576 Oct 27 18:13 test_config_discovery.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  8596 Oct 27 18:13 test_core_metadata.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   779 Oct 27 18:13 test_depends.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  5710 Oct 27 18:13 test_develop.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  7049 Oct 27 18:13 test_dist.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  7057 Oct 27 18:13 test_dist_info.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  4918 Oct 27 18:13 test_distutils_adoption.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 44305 Oct 27 18:13 test_easy_install.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 36769 Oct 27 18:13 test_editable_install.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 30852 Oct 27 18:13 test_egg_info.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   625 Oct 27 18:13 test_extern.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  8157 Oct 27 18:13 test_find_packages.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2694 Oct 27 18:13 test_find_py_modules.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   991 Oct 27 18:13 test_glob.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3656 Oct 27 18:13 test_install_scripts.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2066 Oct 27 18:13 test_logging.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 16010 Oct 27 18:13 test_manifest.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3498 Oct 27 18:13 test_namespaces.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 14000 Oct 27 18:13 test_packageindex.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  6282 Oct 27 18:13 test_sandbox.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 28207 Oct 27 18:13 test_sdist.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  1918 Oct 27 18:13 test_setopt.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  9933 Oct 27 18:13 test_setuptools.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   706 Oct 27 18:13 test_unicode_utils.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  2796 Oct 27 18:13 test_virtualenv.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3221 Oct 27 18:13 test_warnings.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 13209 Oct 27 18:13 test_wheel.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  7442 Oct 27 18:13 test_windows_wrappers.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   414 Oct 27 18:13 text.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun   339 Oct 27 18:13 textwrap.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/tests/compat:
+total 16
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 7 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun    0 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 __pycache__
+-rw-r--r-- 1 mpirun mpirun  135 Oct 27 18:13 py39.py
+
+./.local/lib/python3.10/site-packages/setuptools/tests/compat/__pycache__:
+total 16
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun  177 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  302 Oct 27 18:13 py39.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/tests/config:
+total 104
+drwxr-xr-x 4 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 7 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun     0 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 __pycache__
+drwxr-xr-x 3 mpirun mpirun  4096 Oct 27 18:13 downloads
+-rw-r--r-- 1 mpirun mpirun  1912 Oct 27 18:13 setupcfg_examples.txt
+-rw-r--r-- 1 mpirun mpirun 19258 Oct 27 18:13 test_apply_pyprojecttoml.py
+-rw-r--r-- 1 mpirun mpirun  8111 Oct 27 18:13 test_expand.py
+-rw-r--r-- 1 mpirun mpirun 12398 Oct 27 18:13 test_pyprojecttoml.py
+-rw-r--r-- 1 mpirun mpirun  3072 Oct 27 18:13 test_pyprojecttoml_dynamic_deps.py
+-rw-r--r-- 1 mpirun mpirun 33361 Oct 27 18:13 test_setupcfg.py
+
+./.local/lib/python3.10/site-packages/setuptools/tests/config/__pycache__:
+total 84
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 4 mpirun mpirun  4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun   177 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 18175 Oct 27 18:13 test_apply_pyprojecttoml.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  7266 Oct 27 18:13 test_expand.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 11105 Oct 27 18:13 test_pyprojecttoml.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  3002 Oct 27 18:13 test_pyprojecttoml_dynamic_deps.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 28084 Oct 27 18:13 test_setupcfg.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/tests/config/downloads:
+total 20
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 4 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun 1762 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 __pycache__
+-rw-r--r-- 1 mpirun mpirun  450 Oct 27 18:13 preload.py
+
+./.local/lib/python3.10/site-packages/setuptools/tests/config/downloads/__pycache__:
+total 16
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun 2011 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun  670 Oct 27 18:13 preload.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools/tests/indexes:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 7 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 test_links_priority
+
+./.local/lib/python3.10/site-packages/setuptools/tests/indexes/test_links_priority:
+total 16
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun   92 Oct 27 18:13 external.html
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 simple
+
+./.local/lib/python3.10/site-packages/setuptools/tests/indexes/test_links_priority/simple:
+total 12
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 foobar
+
+./.local/lib/python3.10/site-packages/setuptools/tests/indexes/test_links_priority/simple/foobar:
+total 12
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun  174 Oct 27 18:13 index.html
+
+./.local/lib/python3.10/site-packages/setuptools/tests/integration:
+total 28
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 7 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun    0 Oct 27 18:13 __init__.py
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 __pycache__
+-rw-r--r-- 1 mpirun mpirun 2522 Oct 27 18:13 helpers.py
+-rw-r--r-- 1 mpirun mpirun 8288 Oct 27 18:13 test_pip_install_sdist.py
+
+./.local/lib/python3.10/site-packages/setuptools/tests/integration/__pycache__:
+total 24
+drwxr-xr-x 2 mpirun mpirun 4096 Oct 27 18:13 .
+drwxr-xr-x 3 mpirun mpirun 4096 Oct 27 18:13 ..
+-rw-r--r-- 1 mpirun mpirun  182 Oct 27 18:13 __init__.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 3200 Oct 27 18:13 helpers.cpython-310.pyc
+-rw-r--r-- 1 mpirun mpirun 6289 Oct 27 18:13 test_pip_install_sdist.cpython-310.pyc
+
+./.local/lib/python3.10/site-packages/setuptools-75.2.0.dist-info:
+total 120
+drwxr-xr-x 2 mpirun mpirun  4096 Oct 27 18:13 .
+drwxr-xr-x 8 mpirun mpirun  4096 Oct 27 18:16 ..
+-rw-r--r-- 1 mpirun mpirun     4 Oct 27 18:13 INSTALLER
+-rw-r--r-- 1 mpirun mpirun  1023 Oct 27 18:13 LICENSE
+-rw-r--r-- 1 mpirun mpirun  6855 Oct 27 18:13 METADATA
+-rw-r--r-- 1 mpirun mpirun 82829 Oct 27 18:13 RECORD
+-rw-r--r-- 1 mpirun mpirun     0 Oct 27 18:13 REQUESTED
+-rw-r--r-- 1 mpirun mpirun    91 Oct 27 18:13 WHEEL
+-rw-r--r-- 1 mpirun mpirun  2449 Oct 27 18:13 entry_points.txt
+-rw-r--r-- 1 mpirun mpirun    41 Oct 27 18:13 top_level.txt
+
+./.openmpi:
+total 20
+drwxr-xr-x 1 mpirun mpirun 4096 Oct 27 18:16 .
+drwxr-x--- 1 mpirun mpirun 4096 Oct 28 22:20 ..
+-rw-rw-r-- 1 mpirun mpirun   61 Oct 27 17:19 mca-params.conf
+
+./.ssh:
+total 32
+drwxr-xr-x 1 mpirun mpirun 4096 Oct 27 19:02 .
+drwxr-x--- 1 mpirun mpirun 4096 Oct 28 22:20 ..
+-rw------- 1 mpirun mpirun  396 Oct 27 17:19 authorized_keys
+-rw------- 1 mpirun mpirun   25 Oct 27 17:19 config
+-rw------- 1 mpirun mpirun 1675 Oct 27 17:19 id_rsa
+-rw------- 1 mpirun mpirun  396 Oct 27 17:19 id_rsa.pub
+-rw-r--r-- 1 mpirun mpirun  426 Oct 27 19:02 known_hosts

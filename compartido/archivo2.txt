@@ -1,0 +1,42 @@
+    1  ls
+    2  ls /
+    3  cd /
+    4  ls compartido/
+    5  ls
+    6  cd compartido/
+    7  ls
+    8  cat hostfile 
+    9  ls
+   10  ls serial
+   11  pwd
+   12  ls
+   13  cd /
+   14  cd compartido/
+   15  ls
+   16  cd serial
+   17  ls
+   18  cd ..
+   19  s
+   20  ls
+   21  bash autoPi.sh 
+   22  ls /home/mpirun/
+   23  ls
+   24  cat autoPi.sh 
+   25  ls
+   26  cat autoPi.sh 
+   27  bash autoPi.sh 
+   28  bash autoPi.sh
+   29  bash autoMatrix.sh 
+   30  s
+   31  ls
+   32  cd mpi
+   33  ls
+   34  cd ..
+   35  cd serial
+   36  ls
+   37  ./serial-mm 900
+   38  cd ..
+   39  bash autoMatrix.sh 
+   40  cd
+   41  ls -laR > archivo1.txt
+   42  history > archivo2.txt

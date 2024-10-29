@@ -9,28 +9,38 @@
 
 MPI_Status status;
 
-int main(int argc, char const *argv[])
+int main(int argc, char *argv[])
 {
 
   int numtasks,taskid,numworkers,source,dest,rows,offset,i,j,k;
 
   double start, stop;
+  float dot;
 
-  int N = atof(argv[1]);
-  double a[N][N], b[N][N], c[N][N];
+  int N = atoi(argv[1]);
+  //allocate memory for matrices
+  int **a = (int **)malloc(N*sizeof(int *));
+  int **b = (int **)malloc(N*sizeof(int *));
+  int **c = (int **)malloc(N*sizeof(int *));
+
+  for (int i=0; i<N; i++)
+  {
+	  a[i] = (int *)malloc(N*sizeof(int));
+	  b[i] = (int *)malloc(N*sizeof(int));
+	  c[i] = (int *)malloc(N*sizeof(int));
+  }
 
   MPI_Init(&argc, &argv);
   MPI_Comm_rank(MPI_COMM_WORLD, &taskid);
   MPI_Comm_size(MPI_COMM_WORLD, &numtasks);
 
   numworkers = numtasks-1;
-
   /*---------------------------- master ----------------------------*/
   if (taskid == 0) {
     for (i=0; i<N; i++) {
       for (j=0; j<N; j++) {
-          a[i][j] = (rand() % 4) + 1;
-          b[i][j] = (rand() % 4) + 1;
+          a[i][j] = (int)(rand() % 4) + 1;
+          b[i][j] = (int)(rand() % 4) + 1;
       }
     }
 
@@ -44,8 +54,8 @@ int main(int argc, char const *argv[])
     {
       MPI_Send(&offset, 1, MPI_INT, dest, 1, MPI_COMM_WORLD);
       MPI_Send(&rows, 1, MPI_INT, dest, 1, MPI_COMM_WORLD);
-      MPI_Send(&a[offset][0], rows*N, MPI_DOUBLE,dest,1, MPI_COMM_WORLD);
-      MPI_Send(&b, N*N, MPI_DOUBLE, dest, 1, MPI_COMM_WORLD);
+      MPI_Send(&a[offset][0], rows*N, MPI_INT,dest,1, MPI_COMM_WORLD);
+      MPI_Send(&b[0][0], N*N, MPI_INT, dest, 1, MPI_COMM_WORLD);
       offset = offset + rows;
     }
 
@@ -55,42 +65,66 @@ int main(int argc, char const *argv[])
       source = i;
       MPI_Recv(&offset, 1, MPI_INT, source, 2, MPI_COMM_WORLD, &status);
       MPI_Recv(&rows, 1, MPI_INT, source, 2, MPI_COMM_WORLD, &status);
-      MPI_Recv(&c[offset][0], rows*N, MPI_DOUBLE, source, 2, MPI_COMM_WORLD, &status);
+      MPI_Recv(&c[offset][0], rows*N, MPI_INT, source, 2, MPI_COMM_WORLD, &status);
     }
 
     stop = MPI_Wtime();
 
-    //printf("Here is the result matrix:\n");
-    for (i=0; i<N; i++) {
-      for (j=0; j<N; j++)
-        //printf("%6.2f   ", c[i][j]);
-      //printf ("\n");
-    }
+    // //printf("Here is the result matrix:\n");
+    // for (i=0; i<N; i++) {
+    //   for (j=0; j<N; j++)
+    //     //printf("%6.2f   ", c[i][j]);
+    //   //printf ("\n");
+    // }
 
     printf("%lf\n", stop - start);
   }
 
   /*---------------------------- worker----------------------------*/
   if (taskid > 0) {
+    int **aW = (int **)malloc(N*sizeof(int *));
+    int **bW = (int **)malloc(N*sizeof(int *));
+    int **cW = (int **)malloc(N*sizeof(int *));
+
+    for (int i=0; i<N; i++)
+    {
+      aW[i] = (int *)malloc(N*sizeof(int));
+      bW[i] = (int *)malloc(N*sizeof(int));
+      cW[i] = (int *)malloc(N*sizeof(int));
+    }
+
     source = 0;
     MPI_Recv(&offset, 1, MPI_INT, source, 1, MPI_COMM_WORLD, &status);
     MPI_Recv(&rows, 1, MPI_INT, source, 1, MPI_COMM_WORLD, &status);
-    MPI_Recv(&a, rows*N, MPI_DOUBLE, source, 1, MPI_COMM_WORLD, &status);
-    MPI_Recv(&b, N*N, MPI_DOUBLE, source, 1, MPI_COMM_WORLD, &status);
+    MPI_Recv(&aW[0][0], rows*N, MPI_INT, source, 1, MPI_COMM_WORLD, &status);
+    MPI_Recv(&bW[0][0], N*N, MPI_INT, source, 1, MPI_COMM_WORLD, &status);
+
+    
 
     /* Matrix multiplication */
-    for (k=0; k<N; k++)
-      for (i=0; i<rows; i++) {
-        c[i][k] = 0.0;
-        for (j=0; j<N; j++)
-          c[i][k] = c[i][k] + a[i][j] * b[j][k];
+    for (i=0; i<N; i++)
+      for (j=0; j<rows; j++) {
+        dot = 0.0;
+        for (k=0; k<N; k++){
+          dot += aW[i][k] * bW[k][j];
+        }
+        cW[i][j] = (int)dot;
       }
 
 
     MPI_Send(&offset, 1, MPI_INT, 0, 2, MPI_COMM_WORLD);
     MPI_Send(&rows, 1, MPI_INT, 0, 2, MPI_COMM_WORLD);
-    MPI_Send(&c, rows*N, MPI_DOUBLE, 0, 2, MPI_COMM_WORLD);
+    MPI_Send(&cW[0][0], rows*N, MPI_INT, 0, 2, MPI_COMM_WORLD);
   }
-
+  //free the memory allocated for the matrix
+  for(int i=0; i<N; i++)
+  {
+	  free(a[i]);
+	  free(b[i]);
+	  free(c[i]);
+  }
+  free(a);
+  free(b);
+  free(c);
   MPI_Finalize();
 }
